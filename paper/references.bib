@@ -1,0 +1,237 @@
+% =====================================================================
+%  references.bib  — published-venue citations (verified June 2026).
+%  arXiv IDs confirmed; DOIs included only where a venue mints them.
+% =====================================================================
+
+% ---- base model + serving ------------------------------------------
+@misc{nemotron3nano2025,
+  title         = {Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning},
+  author        = {{NVIDIA}},
+  year          = {2025},
+  eprint        = {2512.20848},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  note          = {arXiv:2512.20848}
+}
+
+@inproceedings{dao2024mamba2,
+  title     = {Transformers are {SSM}s: Generalized Models and Efficient Algorithms Through Structured State Space Duality},
+  author    = {Dao, Tri and Gu, Albert},
+  booktitle = {Proceedings of the 41st International Conference on Machine Learning (ICML)},
+  series    = {PMLR}, volume = {235}, pages = {10041--10071}, year = {2024}, publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v235/dao24a.html},
+  note      = {arXiv:2405.21060}
+}
+
+@inproceedings{kwon2023vllm,
+  title     = {Efficient Memory Management for Large Language Model Serving with {PagedAttention}},
+  author    = {Kwon, Woosuk and Li, Zhuohan and Zhuang, Siyuan and Sheng, Ying and Zheng, Lianmin and Yu, Cody Hao and Gonzalez, Joseph E. and Zhang, Hao and Stoica, Ion},
+  booktitle = {Proceedings of the 29th Symposium on Operating Systems Principles (SOSP)},
+  pages     = {611--626}, year = {2023}, publisher = {ACM},
+  doi       = {10.1145/3600006.3613165}, note = {arXiv:2309.06180}
+}
+
+% ---- chain-of-thought ----------------------------------------------
+@inproceedings{wei2022cot,
+  title     = {Chain-of-Thought Prompting Elicits Reasoning in Large Language Models},
+  author    = {Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Ichter, Brian and Xia, Fei and Chi, Ed and Le, Quoc V. and Zhou, Denny},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {35}, year = {2022},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html},
+  note      = {arXiv:2201.11903}
+}
+
+@inproceedings{wang2023selfconsistency,
+  title     = {Self-Consistency Improves Chain of Thought Reasoning in Language Models},
+  author    = {Wang, Xuezhi and Wei, Jason and Schuurmans, Dale and Le, Quoc V. and Chi, Ed H. and Narang, Sharan and Chowdhery, Aakanksha and Zhou, Denny},
+  booktitle = {International Conference on Learning Representations (ICLR)}, year = {2023},
+  url       = {https://openreview.net/forum?id=1PL1NIMMrw}, note = {arXiv:2203.11171}
+}
+
+% ---- chain-of-thought FAITHFULNESS (key related cluster) ------------
+@inproceedings{turpin2023unfaithful,
+  title     = {Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting},
+  author    = {Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R.},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {36}, year = {2023},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html},
+  note      = {arXiv:2305.04388}
+}
+
+@article{lanham2023measuring,
+  title         = {Measuring Faithfulness in Chain-of-Thought Reasoning},
+  author        = {Lanham, Tamera and Chen, Anna and Radhakrishnan, Ansh and Steiner, Benoit and Denison, Carson and Hernandez, Danny and Li, Dustin and Durmus, Esin and Hubinger, Evan and Kernion, Jackson and others},
+  journal       = {arXiv preprint arXiv:2307.13702}, year = {2023},
+  eprint        = {2307.13702}, archivePrefix = {arXiv}, primaryClass = {cs.CL},
+  note          = {Anthropic technical report}
+}
+
+@inproceedings{lyu2023faithful,
+  title     = {Faithful Chain-of-Thought Reasoning},
+  author    = {Lyu, Qing and Havaldar, Shreya and Stein, Adam and Zhang, Li and Rao, Delip and Wong, Eric and Apidianaki, Marianna and Callison-Burch, Chris},
+  booktitle = {Proceedings of the 13th International Joint Conference on Natural Language Processing (IJCNLP-AACL)}, pages = {305--329}, year = {2023}, publisher = {ACL},
+  doi       = {10.18653/v1/2023.ijcnlp-main.20}, url = {https://aclanthology.org/2023.ijcnlp-main.20/}
+}
+
+% ---- self-training / distillation of reasoning ----------------------
+@inproceedings{zelikman2022star,
+  title     = {{STaR}: Bootstrapping Reasoning With Reasoning},
+  author    = {Zelikman, Eric and Wu, Yuhuai and Mu, Jesse and Goodman, Noah D.},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {35}, year = {2022},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html},
+  note      = {arXiv:2203.14465}
+}
+
+@misc{hinton2015distill,
+  title         = {Distilling the Knowledge in a Neural Network},
+  author        = {Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
+  year          = {2015}, eprint = {1503.02531}, archivePrefix = {arXiv}, primaryClass = {stat.ML},
+  note          = {NIPS 2014 Deep Learning Workshop}
+}
+
+@inproceedings{hsieh2023distill,
+  title     = {Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes},
+  author    = {Hsieh, Cheng-Yu and Li, Chun-Liang and Yeh, Chih-Kuan and Nakhost, Hootan and Fujii, Yasuhisa and Ratner, Alex and Krishna, Ranjay and Lee, Chen-Yu and Pfister, Tomas},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2023}, pages = {8003--8017}, year = {2023}, publisher = {ACL},
+  doi       = {10.18653/v1/2023.findings-acl.507}, url = {https://aclanthology.org/2023.findings-acl.507/}, note = {arXiv:2305.02301}
+}
+
+@misc{muennighoff2025s1,
+  title         = {s1: Simple Test-Time Scaling},
+  author        = {Muennighoff, Niklas and Yang, Zitong and Shi, Weijia and Li, Xiang Lisa and Fei-Fei, Li and Hajishirzi, Hannaneh and Zettlemoyer, Luke and Liang, Percy and Cand{\`e}s, Emmanuel and Hashimoto, Tatsunori},
+  year          = {2025}, eprint = {2501.19393}, archivePrefix = {arXiv}, primaryClass = {cs.CL}, note = {arXiv:2501.19393}
+}
+
+% ---- verifiers / RL from verifiable rewards -------------------------
+@inproceedings{lightman2023verify,
+  title     = {Let's Verify Step by Step},
+  author    = {Lightman, Hunter and Kosaraju, Vineet and Burda, Yuri and Edwards, Harrison and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
+  booktitle = {International Conference on Learning Representations (ICLR)}, year = {2024},
+  url       = {https://openreview.net/forum?id=v8L0pN6EOi}, note = {arXiv:2305.20050}
+}
+
+@article{shao2024deepseekmath,
+  title         = {{DeepSeekMath}: Pushing the Limits of Mathematical Reasoning in Open Language Models},
+  author        = {Shao, Zhihong and Wang, Peiyi and Zhu, Qihao and Xu, Runxin and Song, Junxiao and Bi, Xiao and Zhang, Haowei and Zhang, Mingchuan and Li, Y. K. and Wu, Yu and Guo, Daya},
+  journal       = {arXiv preprint arXiv:2402.03300}, year = {2024},
+  eprint        = {2402.03300}, archivePrefix = {arXiv}, primaryClass = {cs.CL}, note = {arXiv:2402.03300}
+}
+
+@article{guo2025deepseekr1,
+  title   = {{DeepSeek-R1} incentivizes reasoning in {LLMs} through reinforcement learning},
+  author  = {{DeepSeek-AI} and Guo, Daya and others},
+  journal = {Nature}, volume = {645}, pages = {633--638}, year = {2025},
+  doi     = {10.1038/s41586-025-09422-z}, url = {https://www.nature.com/articles/s41586-025-09422-z}, note = {arXiv:2501.12948}
+}
+
+@misc{lambert2024tulu3,
+  title         = {{T\"ulu} 3: Pushing Frontiers in Open Language Model Post-Training},
+  author        = {Lambert, Nathan and Morrison, Jacob and Pyatkin, Valentina and Huang, Shengyi and Ivison, Hamish and Brahman, Faeze and others},
+  year          = {2024}, eprint = {2411.15124}, archivePrefix = {arXiv}, primaryClass = {cs.CL}, note = {arXiv:2411.15124}
+}
+
+@article{cobbe2021gsm8k,
+  title         = {Training Verifiers to Solve Math Word Problems},
+  author        = {Cobbe, Karl and Kosaraju, Vineet and Bavarian, Mohammad and Chen, Mark and Jun, Heewoo and Kaiser, Lukasz and Plappert, Matthias and Tworek, Jerry and Hilton, Jacob and Nakano, Reiichiro and Hesse, Christopher and Schulman, John},
+  journal       = {arXiv preprint arXiv:2110.14168}, year = {2021},
+  eprint        = {2110.14168}, archivePrefix = {arXiv}, primaryClass = {cs.LG}, note = {arXiv:2110.14168}
+}
+
+% ---- compositional / algorithmic / length-generalization limits -----
+@inproceedings{dziri2023faith,
+  title     = {Faith and Fate: Limits of Transformers on Compositionality},
+  author    = {Dziri, Nouha and Lu, Ximing and Sclar, Melanie and Li, Xiang Lorraine and Jiang, Liwei and Lin, Bill Yuchen and Welleck, Sean and West, Peter and Bhagavatula, Chandra and Le Bras, Ronan and Hwang, Jena D. and Sanyal, Soumya and Ren, Xiang and Ettinger, Allyson and Harchaoui, Zaid and Choi, Yejin},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {36}, year = {2023},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2023/hash/deb3c28192f979302c157cb653c15e90-Abstract-Conference.html},
+  note      = {arXiv:2305.18654}
+}
+
+@inproceedings{anil2022length,
+  title     = {Exploring Length Generalization in Large Language Models},
+  author    = {Anil, Cem and Wu, Yuhuai and Andreassen, Anders and Lewkowycz, Aitor and Misra, Vedant and Ramasesh, Vinay and Slone, Ambrose and Gur-Ari, Guy and Dyer, Ethan and Neyshabur, Behnam},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {35}, year = {2022},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/fb7451e43f9c1c35b774bcfad7a5714b-Abstract-Conference.html},
+  note      = {arXiv:2207.04901}
+}
+
+@inproceedings{zhou2024algorithms,
+  title     = {What Algorithms can Transformers Learn? A Study in Length Generalization},
+  author    = {Zhou, Hattie and Bradley, Arwen and Littwin, Etai and Razin, Noam and Saremi, Omid and Susskind, Josh and Bengio, Samy and Nakkiran, Preetum},
+  booktitle = {International Conference on Learning Representations (ICLR)}, year = {2024},
+  url       = {https://openreview.net/forum?id=AssIuHnmHX}, note = {arXiv:2310.16028}
+}
+
+@inproceedings{deletang2023chomsky,
+  title     = {Neural Networks and the Chomsky Hierarchy},
+  author    = {Del{\'e}tang, Gr{\'e}goire and Ruoss, Anian and Grau-Moya, Jordi and Genewein, Tim and Wenliang, Li Kevin and Catt, Elliot and Cundy, Chris and Hutter, Marcus and Legg, Shane and Veness, Joel and Ortega, Pedro A.},
+  booktitle = {International Conference on Learning Representations (ICLR)}, year = {2023},
+  url       = {https://openreview.net/forum?id=WbxHAzkeQcn}, note = {arXiv:2207.02098}
+}
+
+@misc{power2022grokking,
+  title         = {Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets},
+  author        = {Power, Alethea and Burda, Yuri and Edwards, Harri and Babuschkin, Igor and Misra, Vedant},
+  year          = {2022}, eprint = {2201.02177}, archivePrefix = {arXiv}, primaryClass = {cs.LG},
+  note          = {ICLR 2021 MATH-AI Workshop}
+}
+
+% ---- state-space model reasoning limits -----------------------------
+@inproceedings{merrill2024illusion,
+  title     = {The Illusion of State in State-Space Models},
+  author    = {Merrill, William and Petty, Jackson and Sabharwal, Ashish},
+  booktitle = {Proceedings of the 41st International Conference on Machine Learning (ICML)}, series = {PMLR}, year = {2024}, publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v235/merrill24a.html}, note = {arXiv:2404.08819}
+}
+
+@inproceedings{jelassi2024repeat,
+  title     = {Repeat After Me: Transformers are Better than State Space Models at Copying},
+  author    = {Jelassi, Samy and Brandfonbrener, David and Kakade, Sham M. and Malach, Eran},
+  booktitle = {Proceedings of the 41st International Conference on Machine Learning (ICML)}, series = {PMLR}, year = {2024}, publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v235/jelassi24a.html}, note = {arXiv:2402.01032}
+}
+
+% ---- exposure bias --------------------------------------------------
+@inproceedings{bengio2015scheduled,
+  title     = {Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks},
+  author    = {Bengio, Samy and Vinyals, Oriol and Jaitly, Navdeep and Shazeer, Noam},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}, volume = {28}, year = {2015},
+  url       = {https://papers.nips.cc/paper_files/paper/2015/hash/e995f98d56967d946471af29d7bf99f1-Abstract.html}, note = {arXiv:1506.03099}
+}
+
+@inproceedings{ranzato2016sequence,
+  title     = {Sequence Level Training with Recurrent Neural Networks},
+  author    = {Ranzato, Marc'Aurelio and Chopra, Sumit and Auli, Michael and Zaremba, Wojciech},
+  booktitle = {International Conference on Learning Representations (ICLR)}, year = {2016}, note = {arXiv:1511.06732}
+}
+
+% ---- benchmarks / datasets context ----------------------------------
+@inproceedings{hendrycks2021math,
+  title     = {Measuring Mathematical Problem Solving With the {MATH} Dataset},
+  author    = {Hendrycks, Dan and Burns, Collin and Kadavath, Saurav and Arora, Akul and Basart, Steven and Tang, Eric and Song, Dawn and Steinhardt, Jacob},
+  booktitle = {NeurIPS Datasets and Benchmarks}, year = {2021},
+  url       = {https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html}, note = {arXiv:2103.03874}
+}
+
+% ---- competition + external solutions -------------------------------
+@misc{nemotronchallenge2026,
+  title        = {{NVIDIA} Nemotron Model Reasoning Challenge},
+  author       = {{Kaggle and NVIDIA}}, year = {2026},
+  howpublished = {\url{https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge}}, note = {Accessed 2026-06-16}
+}
+
+@misc{huikang2026nemotron,
+  title        = {Nemotron Model Reasoning Challenge: Open Progress Prize Solution},
+  author       = {Tong, Hui Kang}, year = {2026},
+  howpublished = {\url{https://github.com/tonghuikang/nemotron}}, note = {Open Progress Prize; public leaderboard 0.85}
+}
+
+@misc{huikang_kaggle2026,
+  title        = {End-to-End Fine-Tuning for {LB} 0.85},
+  author       = {Tong, Hui Kang}, year = {2026},
+  howpublished = {Kaggle notebook, \url{https://www.kaggle.com/code/huikang/end-to-end-finetuning-for-lb-0-85}}, note = {Published Open Progress Prize recipe; our native-HF pipeline forks this notebook}
+}
+
+@misc{goodmeatday2026first,
+  title        = {1st Place Solution: {NVIDIA} Nemotron Model Reasoning Challenge},
+  author       = {GoodMeatDay and {re} and reopon}, year = {2026},
+  howpublished = {Kaggle competition write-up, \url{https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/writeups/1st-place-solution}},
+  note         = {Team NullSira; Private LB 0.920; memorization--computation split (signature catalog + DFS verify). Accessed 2026-06-17}
+}

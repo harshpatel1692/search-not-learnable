@@ -1,0 +1,302 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anil et~al.(2022)Anil, Wu, Andreassen, Lewkowycz, Misra, Ramasesh,
+  Slone, Gur-Ari, Dyer, and Neyshabur]{anil2022length}
+Cem Anil, Yuhuai Wu, Anders Andreassen, Aitor Lewkowycz, Vedant Misra, Vinay
+  Ramasesh, Ambrose Slone, Guy Gur-Ari, Ethan Dyer, and Behnam Neyshabur.
+\newblock Exploring length generalization in large language models.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, 2022.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2022/hash/fb7451e43f9c1c35b774bcfad7a5714b-Abstract-Conference.html}.
+\newblock arXiv:2207.04901.
+
+\bibitem[Bengio et~al.(2015)Bengio, Vinyals, Jaitly, and
+  Shazeer]{bengio2015scheduled}
+Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer.
+\newblock Scheduled sampling for sequence prediction with recurrent neural
+  networks.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~28, 2015.
+\newblock URL
+  \url{https://papers.nips.cc/paper_files/paper/2015/hash/e995f98d56967d946471af29d7bf99f1-Abstract.html}.
+\newblock arXiv:1506.03099.
+
+\bibitem[Cobbe et~al.(2021)Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser,
+  Plappert, Tworek, Hilton, Nakano, Hesse, and Schulman]{cobbe2021gsm8k}
+Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz
+  Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano,
+  Christopher Hesse, and John Schulman.
+\newblock Training verifiers to solve math word problems.
+\newblock \emph{arXiv preprint arXiv:2110.14168}, 2021.
+\newblock arXiv:2110.14168.
+
+\bibitem[Dao and Gu(2024)]{dao2024mamba2}
+Tri Dao and Albert Gu.
+\newblock Transformers are {SSM}s: Generalized models and efficient algorithms
+  through structured state space duality.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning (ICML)}, volume 235 of \emph{PMLR}, pages 10041--10071. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/dao24a.html}.
+\newblock arXiv:2405.21060.
+
+\bibitem[{DeepSeek-AI} et~al.(2025){DeepSeek-AI}, Guo,
+  et~al.]{guo2025deepseekr1}
+{DeepSeek-AI}, Daya Guo, et~al.
+\newblock {DeepSeek-R1} incentivizes reasoning in {LLMs} through reinforcement
+  learning.
+\newblock \emph{Nature}, 645:\penalty0 633--638, 2025.
+\newblock \doi{10.1038/s41586-025-09422-z}.
+\newblock URL \url{https://www.nature.com/articles/s41586-025-09422-z}.
+\newblock arXiv:2501.12948.
+
+\bibitem[Del{\'e}tang et~al.(2023)Del{\'e}tang, Ruoss, Grau-Moya, Genewein,
+  Wenliang, Catt, Cundy, Hutter, Legg, Veness, and Ortega]{deletang2023chomsky}
+Gr{\'e}goire Del{\'e}tang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li~Kevin
+  Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness,
+  and Pedro~A. Ortega.
+\newblock Neural networks and the chomsky hierarchy.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://openreview.net/forum?id=WbxHAzkeQcn}.
+\newblock arXiv:2207.02098.
+
+\bibitem[Dziri et~al.(2023)Dziri, Lu, Sclar, Li, Jiang, Lin, Welleck, West,
+  Bhagavatula, Le~Bras, Hwang, Sanyal, Ren, Ettinger, Harchaoui, and
+  Choi]{dziri2023faith}
+Nouha Dziri, Ximing Lu, Melanie Sclar, Xiang~Lorraine Li, Liwei Jiang,
+  Bill~Yuchen Lin, Sean Welleck, Peter West, Chandra Bhagavatula, Ronan
+  Le~Bras, Jena~D. Hwang, Soumya Sanyal, Xiang Ren, Allyson Ettinger, Zaid
+  Harchaoui, and Yejin Choi.
+\newblock Faith and fate: Limits of transformers on compositionality.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~36, 2023.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2023/hash/deb3c28192f979302c157cb653c15e90-Abstract-Conference.html}.
+\newblock arXiv:2305.18654.
+
+\bibitem[GoodMeatDay et~al.(2026)GoodMeatDay, {re}, and
+  reopon]{goodmeatday2026first}
+GoodMeatDay, {re}, and reopon.
+\newblock 1st place solution: {NVIDIA} nemotron model reasoning challenge.
+\newblock Kaggle competition write-up,
+  \url{https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/writeups/1st-place-solution},
+  2026.
+\newblock Team NullSira; Private LB 0.920; memorization--computation split
+  (signature catalog + DFS verify). Accessed 2026-06-17.
+
+\bibitem[Hendrycks et~al.(2021)Hendrycks, Burns, Kadavath, Arora, Basart, Tang,
+  Song, and Steinhardt]{hendrycks2021math}
+Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric
+  Tang, Dawn Song, and Jacob Steinhardt.
+\newblock Measuring mathematical problem solving with the {MATH} dataset.
+\newblock In \emph{NeurIPS Datasets and Benchmarks}, 2021.
+\newblock URL
+  \url{https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html}.
+\newblock arXiv:2103.03874.
+
+\bibitem[Hinton et~al.(2015)Hinton, Vinyals, and Dean]{hinton2015distill}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock Distilling the knowledge in a neural network, 2015.
+\newblock NIPS 2014 Deep Learning Workshop.
+
+\bibitem[Hsieh et~al.(2023)Hsieh, Li, Yeh, Nakhost, Fujii, Ratner, Krishna,
+  Lee, and Pfister]{hsieh2023distill}
+Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii,
+  Alex Ratner, Ranjay Krishna, Chen-Yu Lee, and Tomas Pfister.
+\newblock Distilling step-by-step! outperforming larger language models with
+  less training data and smaller model sizes.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2023}, pages 8003--8017. ACL, 2023.
+\newblock \doi{10.18653/v1/2023.findings-acl.507}.
+\newblock URL \url{https://aclanthology.org/2023.findings-acl.507/}.
+\newblock arXiv:2305.02301.
+
+\bibitem[Jelassi et~al.(2024)Jelassi, Brandfonbrener, Kakade, and
+  Malach]{jelassi2024repeat}
+Samy Jelassi, David Brandfonbrener, Sham~M. Kakade, and Eran Malach.
+\newblock Repeat after me: Transformers are better than state space models at
+  copying.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning (ICML)}, PMLR. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/jelassi24a.html}.
+\newblock arXiv:2402.01032.
+
+\bibitem[{Kaggle and NVIDIA}(2026)]{nemotronchallenge2026}
+{Kaggle and NVIDIA}.
+\newblock {NVIDIA} nemotron model reasoning challenge.
+\newblock
+  \url{https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge},
+  2026.
+\newblock Accessed 2026-06-16.
+
+\bibitem[Kwon et~al.(2023)Kwon, Li, Zhuang, Sheng, Zheng, Yu, Gonzalez, Zhang,
+  and Stoica]{kwon2023vllm}
+Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody~Hao Yu,
+  Joseph~E. Gonzalez, Hao Zhang, and Ion Stoica.
+\newblock Efficient memory management for large language model serving with
+  {PagedAttention}.
+\newblock In \emph{Proceedings of the 29th Symposium on Operating Systems
+  Principles (SOSP)}, pages 611--626. ACM, 2023.
+\newblock \doi{10.1145/3600006.3613165}.
+\newblock arXiv:2309.06180.
+
+\bibitem[Lambert et~al.(2024)Lambert, Morrison, Pyatkin, Huang, Ivison,
+  Brahman, et~al.]{lambert2024tulu3}
+Nathan Lambert, Jacob Morrison, Valentina Pyatkin, Shengyi Huang, Hamish
+  Ivison, Faeze Brahman, et~al.
+\newblock {T\"ulu} 3: Pushing frontiers in open language model post-training,
+  2024.
+\newblock arXiv:2411.15124.
+
+\bibitem[Lanham et~al.(2023)Lanham, Chen, Radhakrishnan, Steiner, Denison,
+  Hernandez, Li, Durmus, Hubinger, Kernion, et~al.]{lanham2023measuring}
+Tamera Lanham, Anna Chen, Ansh Radhakrishnan, Benoit Steiner, Carson Denison,
+  Danny Hernandez, Dustin Li, Esin Durmus, Evan Hubinger, Jackson Kernion,
+  et~al.
+\newblock Measuring faithfulness in chain-of-thought reasoning.
+\newblock \emph{arXiv preprint arXiv:2307.13702}, 2023.
+\newblock Anthropic technical report.
+
+\bibitem[Lightman et~al.(2024)Lightman, Kosaraju, Burda, Edwards, Baker, Lee,
+  Leike, Schulman, Sutskever, and Cobbe]{lightman2023verify}
+Hunter Lightman, Vineet Kosaraju, Yuri Burda, Harrison Edwards, Bowen Baker,
+  Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, and Karl Cobbe.
+\newblock Let's verify step by step.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+\newblock URL \url{https://openreview.net/forum?id=v8L0pN6EOi}.
+\newblock arXiv:2305.20050.
+
+\bibitem[Lyu et~al.(2023)Lyu, Havaldar, Stein, Zhang, Rao, Wong, Apidianaki,
+  and Callison-Burch]{lyu2023faithful}
+Qing Lyu, Shreya Havaldar, Adam Stein, Li~Zhang, Delip Rao, Eric Wong, Marianna
+  Apidianaki, and Chris Callison-Burch.
+\newblock Faithful chain-of-thought reasoning.
+\newblock In \emph{Proceedings of the 13th International Joint Conference on
+  Natural Language Processing (IJCNLP-AACL)}, pages 305--329. ACL, 2023.
+\newblock \doi{10.18653/v1/2023.ijcnlp-main.20}.
+\newblock URL \url{https://aclanthology.org/2023.ijcnlp-main.20/}.
+
+\bibitem[Merrill et~al.(2024)Merrill, Petty, and
+  Sabharwal]{merrill2024illusion}
+William Merrill, Jackson Petty, and Ashish Sabharwal.
+\newblock The illusion of state in state-space models.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning (ICML)}, PMLR. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/merrill24a.html}.
+\newblock arXiv:2404.08819.
+
+\bibitem[Muennighoff et~al.(2025)Muennighoff, Yang, Shi, Li, Fei-Fei,
+  Hajishirzi, Zettlemoyer, Liang, Cand{\`e}s, and Hashimoto]{muennighoff2025s1}
+Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang~Lisa Li, Li~Fei-Fei,
+  Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Cand{\`e}s, and
+  Tatsunori Hashimoto.
+\newblock s1: Simple test-time scaling, 2025.
+\newblock arXiv:2501.19393.
+
+\bibitem[{NVIDIA}(2025)]{nemotron3nano2025}
+{NVIDIA}.
+\newblock Nemotron 3 nano: Open, efficient mixture-of-experts hybrid
+  mamba-transformer model for agentic reasoning, 2025.
+\newblock arXiv:2512.20848.
+
+\bibitem[Power et~al.(2022)Power, Burda, Edwards, Babuschkin, and
+  Misra]{power2022grokking}
+Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, and Vedant Misra.
+\newblock Grokking: Generalization beyond overfitting on small algorithmic
+  datasets, 2022.
+\newblock ICLR 2021 MATH-AI Workshop.
+
+\bibitem[Ranzato et~al.(2016)Ranzato, Chopra, Auli, and
+  Zaremba]{ranzato2016sequence}
+Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech Zaremba.
+\newblock Sequence level training with recurrent neural networks.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2016.
+\newblock arXiv:1511.06732.
+
+\bibitem[Shao et~al.(2024)Shao, Wang, Zhu, Xu, Song, Bi, Zhang, Zhang, Li, Wu,
+  and Guo]{shao2024deepseekmath}
+Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei
+  Zhang, Mingchuan Zhang, Y.~K. Li, Yu~Wu, and Daya Guo.
+\newblock {DeepSeekMath}: Pushing the limits of mathematical reasoning in open
+  language models.
+\newblock \emph{arXiv preprint arXiv:2402.03300}, 2024.
+\newblock arXiv:2402.03300.
+
+\bibitem[Tong(2026{\natexlab{a}})]{huikang2026nemotron}
+Hui~Kang Tong.
+\newblock Nemotron model reasoning challenge: Open progress prize solution.
+\newblock \url{https://github.com/tonghuikang/nemotron}, 2026{\natexlab{a}}.
+\newblock Open Progress Prize; public leaderboard 0.85.
+
+\bibitem[Tong(2026{\natexlab{b}})]{huikang_kaggle2026}
+Hui~Kang Tong.
+\newblock End-to-end fine-tuning for {LB} 0.85.
+\newblock Kaggle notebook,
+  \url{https://www.kaggle.com/code/huikang/end-to-end-finetuning-for-lb-0-85},
+  2026{\natexlab{b}}.
+\newblock Published Open Progress Prize recipe; our native-HF pipeline forks
+  this notebook.
+
+\bibitem[Turpin et~al.(2023)Turpin, Michael, Perez, and
+  Bowman]{turpin2023unfaithful}
+Miles Turpin, Julian Michael, Ethan Perez, and Samuel~R. Bowman.
+\newblock Language models don't always say what they think: Unfaithful
+  explanations in chain-of-thought prompting.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~36, 2023.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2023/hash/ed3fea9033a80fea1376299fa7863f4a-Abstract-Conference.html}.
+\newblock arXiv:2305.04388.
+
+\bibitem[Wang et~al.(2023)Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery,
+  and Zhou]{wang2023selfconsistency}
+Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc~V. Le, Ed~H. Chi, Sharan Narang,
+  Aakanksha Chowdhery, and Denny Zhou.
+\newblock Self-consistency improves chain of thought reasoning in language
+  models.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://openreview.net/forum?id=1PL1NIMMrw}.
+\newblock arXiv:2203.11171.
+
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le,
+  and Zhou]{wei2022cot}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~Chi, Quoc~V. Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language
+  models.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, 2022.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html}.
+\newblock arXiv:2201.11903.
+
+\bibitem[Zelikman et~al.(2022)Zelikman, Wu, Mu, and Goodman]{zelikman2022star}
+Eric Zelikman, Yuhuai Wu, Jesse Mu, and Noah~D. Goodman.
+\newblock {STaR}: Bootstrapping reasoning with reasoning.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, 2022.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html}.
+\newblock arXiv:2203.14465.
+
+\bibitem[Zhou et~al.(2024)Zhou, Bradley, Littwin, Razin, Saremi, Susskind,
+  Bengio, and Nakkiran]{zhou2024algorithms}
+Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi, Josh
+  Susskind, Samy Bengio, and Preetum Nakkiran.
+\newblock What algorithms can transformers learn? a study in length
+  generalization.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+\newblock URL \url{https://openreview.net/forum?id=AssIuHnmHX}.
+\newblock arXiv:2310.16028.
+
+\end{thebibliography}

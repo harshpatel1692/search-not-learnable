@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Verifiable Search Is Not a Learnable Chain-of-Thought</title>
+<meta name="description" content="You can write a program that solves a task perfectly and still be unable to distill its search into a chain-of-thought: the model collapses to verdict-as-token, from 3B to 671B. The task becomes learnable only by memorizing the search's structure and verifying, not by reasoning through it, as the competition's 1st-place solution showed.">
+<meta property="og:title" content="A Verifiable Search Is Not a Learnable Chain-of-Thought">
+<meta property="og:description" content="A verifiable search does not distill into chain-of-thought. What transfers is memorization and verification, not search, the lesson behind the competition's 1st-place solution.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;450;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: {
+  colors: { paper:'#f6f4ee', band:'#efece3', surface:'#fffefb', panel:'#16181c',
+    ink:'#1b1a17', ink2:'#3c3a35', mut:'#746f66', faint:'#a49e93', line:'#e4ded2',
+    teal:'#0f6b5f', tealD:'#0a544a', clay:'#b1532e', steel:'#3f6a8a', sage:'#5d8c6e' },
+  fontFamily: { serif:['Newsreader','Georgia','serif'], sans:['Inter','system-ui','sans-serif'], mono:['JetBrains Mono','ui-monospace','monospace'] },
+  maxWidth: { content:'46rem' } } } }
+</script>
+<link rel="stylesheet" href="style.css">
+<script>
+/* progressive enhancement: hide-for-animation only when JS is live, and never leave
+   content hidden if app.js fails to load (failsafe reveals everything after load). */
+document.documentElement.classList.add('js');
+addEventListener('load', function () {
+  setTimeout(function () {
+    if (window.__revealed) return;
+    var n = document.querySelectorAll('.reveal');
+    for (var i = 0; i < n.length; i++) n[i].classList.add('in');
+  }, 1200);
+});
+</script>
+</head>
+<body class="bg-paper text-ink font-sans antialiased">
+
+<div id="progress" aria-hidden="true"></div>
+<nav id="dotnav" aria-label="On this page"></nav>
+
+<nav id="nav" class="sticky top-0 z-50">
+  <div class="mx-auto max-w-content px-6 h-14 flex items-center justify-between">
+    <a href="#top" class="font-serif font-semibold text-ink">Search&nbsp;&ne;&nbsp;Reasoning</a>
+    <div class="flex gap-6 text-sm text-mut">
+      <a href="#tasks" class="hover:text-ink hidden sm:inline">The tasks</a>
+      <a href="#why" class="hover:text-ink hidden sm:inline">Mechanism</a>
+      <a href="#training" class="hover:text-ink hidden sm:inline">Evidence</a>
+      <a href="#cheat" class="hover:text-ink hidden sm:inline">The proof</a>
+      <a href="paper.pdf" class="text-teal font-medium hover:text-tealD">Paper&nbsp;↗</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<header id="top" class="border-b border-line">
+  <div class="mx-auto max-w-content px-6 pt-20 pb-14">
+    <p class="reveal font-mono text-xs uppercase tracking-[0.18em] text-teal mb-5">An interactive walkthrough &middot; NVIDIA Nemotron Reasoning Challenge</p>
+    <h1 class="reveal font-serif font-medium text-[2.1rem] sm:text-[2.7rem] leading-[1.12] mb-5">
+      A verifiable search is not a<br><span class="italic text-teal">learnable chain-of-thought.</span></h1>
+    <p class="reveal text-lg leading-relaxed text-ink2 max-w-[37rem] mb-6">
+      You can write a program that solves every instance of a task, distil its search into a model,
+      and watch that model fail anyway. Not from a capability gap, and not on this particular model.
+      It happens whenever the task's only solution is <em>search</em>, because a search has no faithful
+      left-to-right story to imitate. The task isn't unlearnable, though: you just can't <em>reason</em>
+      your way there. You have to memorize the search's structure and verify, which is how this
+      competition was won. This walks through where the search breaks, why, and what transfers instead.</p>
+    <p class="reveal text-sm text-faint mt-1">Scroll to walk through it&nbsp;&nbsp;↓</p>
+  </div>
+</header>
+
+<main>
+
+<!-- 1 · INTUITION -->
+<section id="premise" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">01 &middot; the premise</p>
+    <h2 class="reveal h2">If a program can solve it, surely a model can learn it.</h2>
+    <div class="reveal">
+      <p class="body">This is the premise behind reasoning-by-distillation, and behind most of the
+      recent work that trains small models on a stronger model's traces: if you can produce a correct
+      chain-of-thought for a task, you can fine-tune a model to reproduce that reasoning and inherit the
+      skill. It works because most procedures are <em>forward</em>. Each step is a deterministic function
+      of the steps before it, so the trace is a faithful recipe and imitation recovers the function.</p>
+      <p class="body">Converting numbers, applying a unit factor, decoding a cipher whose key you can
+      read off the prompt: write out the steps, train on them, and a small model reproduces them almost
+      perfectly. The recipe transfers. So I built a controlled laboratory where solvability and
+      learnability could be measured separately, and pushed the premise until it broke.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 2 · THE LAB -->
+<section id="tasks" class="py-16 sm:py-20 bg-band border-y border-line">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">02 &middot; the laboratory</p>
+    <h2 class="reveal h2">Nine procedural tasks, sorted into three outcomes.</h2>
+    <p class="reveal body">The benchmark gives 9,500 training problems across nine procedurally-generated
+    task families, and has one property that makes it an unusually honest instrument: the public training
+    data and the hidden test set are drawn from the <em>same</em> generators. So a held-out slice of
+    training rows is a faithful proxy for the hidden leaderboard. For each family I reverse-engineered
+    the generator into a Python solver (five of nine reach &ge;98%), rendered the solver's execution as a
+    step-by-step chain-of-thought, distilled it into a rank-32 LoRA adapter, and asked one question per
+    family under greedy decoding: <strong>did the procedure transfer?</strong></p>
+
+    <dl class="reveal spec">
+      <div><dt>Base model</dt><dd>Nemotron-3-Nano &middot; hybrid Mamba-2 + MoE, ~3.5B active / 30B total</dd></div>
+      <div><dt>Adapter</dt><dd>rank-32 LoRA, SFT on solver-rendered chain-of-thought</dd></div>
+      <div><dt>Decoding</dt><dd>greedy, temperature 0, within a 7,680-token answer budget</dd></div>
+      <div><dt>Data</dt><dd>9,500 training rows; train and hidden test share generators</dd></div>
+      <div><dt>Solvers</dt><dd>nine generators reverse-engineered; five reach &ge;98% coverage</dd></div>
+      <div><dt>Metric</dt><dd>exact-match accuracy on held-out training rows</dd></div>
+    </dl>
+
+    <p class="reveal body mt-8"><strong>Tap any task</strong> to see a real puzzle from the benchmark,
+    the model's actual reasoning where revealing, and why it lands where it does.</p>
+
+    <div class="reveal md:grid md:grid-cols-[224px_1fr] md:gap-7 mt-5">
+      <div id="tasklist" class="mb-5 md:mb-0"></div>
+      <div id="cat-detail" class="md:sticky md:top-24 md:self-start"></div>
+    </div>
+  </div>
+</section>
+
+<!-- 3 · SURPRISE -->
+<section id="surprise" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">03 &middot; the surprise</p>
+    <h2 class="reveal h2">One family breaks the premise: cryptarithm.</h2>
+    <p class="reveal body">A cryptarithm hides both digits and operators behind a per-puzzle symbol
+    cipher. You are shown a handful of equations in symbols and must complete a new one. My solver
+    cracks <strong>71%</strong> by backtracking search over the cipher. The model distilled from that
+    solver's own reasoning reaches <strong>5%</strong>. Eleven redesigns of the chain-of-thought,
+    reinforcement learning from verifiable rewards, and self-training all leave it at the floor.</p>
+
+    <div class="reveal flex items-center justify-center gap-6 sm:gap-10 my-9 py-8 px-4 bg-surface border border-line rounded-2xl shadow-soft">
+      <div class="text-center"><div class="font-serif text-5xl sm:text-6xl text-teal leading-none" data-count="0.71">0.71</div>
+        <div class="text-sm text-mut mt-2">the solver (search)</div></div>
+      <div class="font-serif italic text-xl text-faint">vs</div>
+      <div class="text-center"><div class="font-serif text-5xl sm:text-6xl text-clay leading-none" data-count="0.05">0.05</div>
+        <div class="text-sm text-mut mt-2">the model it trained</div></div>
+    </div>
+
+    <p class="reveal body">Crucially, this is not a capability gap. In a line-by-line audit of the
+    trained model's transcripts, the arithmetic steps are correct on <strong>97&ndash;100%</strong> of
+    lines, and when the model is handed candidate answers it ranks the correct one into its top eight
+    about <strong>71%</strong> of the time. It can do the arithmetic, and it can recognize the answer.
+    What it cannot do is <em>generate</em> the answer by carrying the search forward. The next sections
+    show why distilling the search fails on every model, and what makes the task learnable anyway.</p>
+  </div>
+</section>
+
+<!-- 4 · DEMO -->
+<section id="demo" class="py-16 sm:py-20 bg-band border-y border-line">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">04 &middot; feel the difference</p>
+    <h2 class="reveal h2">Some answers you derive forward. Some you can only search for.</h2>
+    <p class="reveal body">Here is the crux, made tactile. Below is a small cryptarithm. With the cipher
+    <em>hidden</em>, nothing tells you the next digit: you have to guess a whole assignment, check it
+    against every clue, and backtrack on a contradiction. That is <em>search</em>, and it has no
+    left-to-right story to write down. Now <strong>reveal the key</strong>, and every step becomes
+    forced; the answer falls out in a single forward pass, exactly the kind of reasoning a model imitates
+    easily.</p>
+
+    <div class="reveal bg-surface border border-line rounded-2xl shadow-soft overflow-hidden mt-7">
+      <div id="demo-eqs" class="px-6 pt-7 pb-5 font-mono text-xl text-ink2 flex flex-col gap-2.5 items-start"></div>
+      <div class="flex items-center justify-center gap-4 flex-wrap px-6 py-4 bg-band border-y border-line">
+        <button id="revealBtn" class="btn-primary">Reveal the cipher key</button>
+        <span id="demo-state" class="font-mono text-sm text-mut"></span>
+      </div>
+      <div id="demo-work" class="px-6 py-5 text-[15px] text-ink2 leading-relaxed min-h-[64px]"></div>
+    </div>
+    <p class="reveal cap mt-4">A simplified stand-in: the real puzzles hide the digits behind arbitrary
+    symbols (see the cryptarithm example above), but the structure is identical. With the key, decoding
+    is a forward lookup the model learns. Without it, only backtracking search works, and that is what it
+    fails. Section 8 turns this knob on the real task.</p>
+  </div>
+</section>
+
+<!-- 5 · WHY -->
+<section id="why" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">05 &middot; the mechanism</p>
+    <h2 class="reveal h2">There is no faithful forward trace to imitate.</h2>
+    <p class="reveal body">Supervised fine-tuning teaches an autoregressive model to predict the next
+    token from the prefix. That recovers a procedure only when each step is <em>locally justified</em> by
+    what came before. A backtracking search is not: a step is justified by the future (you only learn a
+    branch was wrong after exploring it), so reading the trace left-to-right there is no local rule to
+    learn. The model fits the trace's <em>surface form</em> without its control flow.</p>
+    <p class="reveal body">At inference this surfaces as <strong>verdict-as-token</strong>. The model
+    enumerates candidate pairs, computes one that plainly matches the target on the very same line, and
+    then emits the high-frequency closing phrase it saw thousands of times in training,
+    &ldquo;none matches, drop,&rdquo; regardless of the evidence it just produced. Greedy decoding makes
+    this worse through exposure bias: one such mis-step is never corrected, and the derivation walks off
+    into the token budget. In the fidelity audit of 7,566 line-records the arithmetic lines are correct
+    97&ndash;100% of the time, while the verdict lines invert their own evidence. Step through real
+    transcripts:</p>
+
+    <div class="reveal mt-7 rounded-2xl overflow-hidden shadow-lift bg-panel">
+      <div class="flex items-center justify-between gap-3 px-5 py-3 bg-[#1d2026] border-b border-[#2a2e36]">
+        <span class="font-mono text-xs text-[#8b93a0] min-w-0 truncate">trained-model transcripts &middot; fidelity audit</span>
+        <div class="flex items-center gap-3 shrink-0">
+          <button id="prev" class="navbtn" aria-label="previous">←</button>
+          <span id="counter" class="font-mono text-xs text-[#8b93a0]"></span>
+          <button id="next" class="navbtn" aria-label="next">→</button>
+        </div>
+      </div>
+      <div class="px-5 pt-5 pb-1" id="traceCard">
+        <div class="flex gap-2 mb-3 flex-wrap" id="trace-meta"><span id="tid"></span><span id="ttype"></span></div>
+        <pre id="tline"></pre>
+        <div id="trace-why"><span class="whylabel">What's actually wrong</span><span id="twhy"></span></div>
+      </div>
+      <div class="flex gap-1.5 flex-wrap px-5 pt-3.5 pb-4" id="dots"></div>
+    </div>
+
+    <aside class="reveal aside mt-6"><b>Tokenizer note.</b> The base tokenizer is a 131,072-entry BPE
+    with no <code>&lt;unk&gt;</code>; unicode operators fragment into rare byte tokens, so all
+    chain-of-thought is written in plain ASCII (operators as words, <code>-&gt;</code>, <code>!=</code>).
+    This constrains how symbols are expressed but is not the failure: the architecture sweep below holds
+    with each model's own tokenizer.</aside>
+  </div>
+</section>
+
+<!-- 6 · TRAINING DYNAMICS -->
+<section id="training" class="py-16 sm:py-20 bg-band border-y border-line">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">06 &middot; it fit the data perfectly</p>
+    <h2 class="reveal h2">It learned the corpus. It never learned the search.</h2>
+    <p class="reveal body">Loss measures whether the model fit the <em>tokens</em> of the reasoning.
+    Accuracy measures whether it learned the <em>logic</em>. On cryptarithm the two come apart completely.
+    Every corpus trained to a negative-log-likelihood below 0.06, reproducing the chain-of-thought almost
+    verbatim, while greedy free-running collapsed and held-out accuracy never left the floor.</p>
+
+    <div class="reveal grid grid-cols-1 sm:grid-cols-2 gap-4 my-8">
+      <div class="bg-surface border border-line rounded-xl p-6 shadow-soft">
+        <div class="font-mono text-xs uppercase tracking-wider text-mut mb-2">training loss (NLL)</div>
+        <div class="font-serif text-3xl text-ink leading-none">0.146 <span class="text-faint">&rarr;</span> <span class="text-teal">0.001</span></div>
+        <div class="text-sm text-mut mt-2">It fit the corpus essentially perfectly.</div>
+      </div>
+      <div class="bg-surface border border-line rounded-xl p-6 shadow-soft">
+        <div class="font-mono text-xs uppercase tracking-wider text-mut mb-2">held-out accuracy</div>
+        <div class="font-serif text-3xl text-clay leading-none">~0.03 <span class="text-faint">(flat)</span></div>
+        <div class="text-sm text-mut mt-2">Across every redesign it never moved.</div>
+      </div>
+    </div>
+
+    <div class="reveal bg-surface border border-line rounded-2xl p-5 sm:p-6 shadow-soft" id="train-chart"></div>
+    <p class="reveal cap mt-4">Held-out accuracy at thirteen checkpoints spanning eleven cryptarithm
+    chain-of-thought redesigns, reinforcement learning, and self-training. Cryptarithm (clay) sits at the
+    floor throughout. Bit-manipulation (teal), which is partly forward-derivable, climbs from 0.52 to
+    0.68 over the same kind of iteration. Same effort; only the forward-derivable task improves.</p>
+
+    <aside class="reveal aside mt-6"><b>Reinforcement learning.</b> Starting GRPO (RL from verifiable
+    rewards) from a checkpoint that executes the search reliably, the reward gradient is alive on an easy
+    curriculum (mean reward &asymp; 0.45), but pass@32 on real held-out cryptarithm stays at 0.05 and
+    held-out accuracy is flat across iterations. The signal never transfers to the puzzles that actually
+    require search. Four independent methods agree: the search doesn't distill.</aside>
+  </div>
+</section>
+
+<!-- 7 · IT'S THE TASK -->
+<section id="scale" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">07 &middot; it's the task, not the model</p>
+    <h2 class="reveal h2">Bigger, different, smarter: all stuck at the floor.</h2>
+    <p class="reveal body">Maybe the limit is this particular model? I trained the identical corpus on
+    four architectures that share almost nothing, each evaluated with its <em>own</em> tokenizer to rule
+    out a tokenization artifact: dense transformers (Llama-3.2-3B, Qwen3.5-4B), an MoE transformer
+    (gpt-oss-20b), and the hybrid Mamba-2 + MoE base. Spanning a state-space model and dense and sparse
+    transformers rules out any single architectural state-tracking limit. I also prompted two frontier
+    models in-context with few-shot examples under the same budget. Every one fits its training data;
+    not one reproduces the search.</p>
+    <div class="reveal chart mt-7" id="scale-chart"></div>
+    <p class="reveal cap mt-4">Cryptarithm accuracy on identical held-out puzzles, from 3B to 671B and
+    fine-tuned to prompted. Every model lands within about four points of zero. The teal bar is what the
+    search solver reaches on the same puzzles; the gap, not the differences between models, is the story.</p>
+  </div>
+</section>
+
+<!-- 8 · CHEAT SHEET -->
+<section id="cheat" class="py-16 sm:py-20 bg-band border-y border-line">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">08 &middot; the causal proof <span class="tag">intervention</span></p>
+    <h2 class="reveal h2">Turn the search into a forward derivation, and it learns.</h2>
+    <p class="reveal body">If forward-derivability is the cause, making the task forward should fix it,
+    and nothing else should. So I operationalized it: reveal a fraction of the symbol-to-digit key in the
+    prompt, converting exactly that fraction of the derivation from search into lookup, holding the
+    surface task fixed. The result is a clean dose-response. Try each setting:</p>
+
+    <div class="reveal bg-surface border border-line rounded-2xl shadow-soft p-6 sm:p-8 mt-7">
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-2.5 mb-7" id="cheat-btns">
+        <button class="cheat-btn" data-k="blind">Reveal none of the key</button>
+        <button class="cheat-btn" data-k="half">Reveal half the key</button>
+        <button class="cheat-btn" data-k="full">Reveal the whole key</button>
+      </div>
+      <div class="flex items-center gap-5">
+        <div class="flex-1 h-9 bg-band border border-line rounded-lg overflow-hidden">
+          <div id="cheat-bar" class="h-full rounded-l-lg" style="width:5%;background:#b1532e;transition:width .55s cubic-bezier(.2,.8,.2,1),background .45s"></div>
+        </div>
+        <div id="cheat-num" class="font-serif text-4xl text-clay min-w-[92px] text-right leading-none">3%</div>
+      </div>
+      <p id="cheat-note" class="text-[15px] text-ink2 mt-5 leading-relaxed min-h-[48px]"></p>
+    </div>
+    <p class="reveal cap mt-4">Same puzzles, same model, same budget; only forward-derivability varies.
+    Revealing half barely moves it, because any residual unknown re-opens the backtracking search.
+    Revealing all of it lifts accuracy roughly fifteen-fold. Forward-derivability is the causal knob.</p>
+  </div>
+</section>
+
+<!-- 9 · HOW IT WAS SOLVED -->
+<section id="solved" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">09 &middot; how it was actually solved</p>
+    <h2 class="reveal h2">Memorize the search. Don't reason through it.</h2>
+    <p class="reveal body">So is cryptarithm hopeless? No, and the competition's <strong>1st-place
+    solution</strong> (private LB 0.92) shows the way by doing exactly what this study predicts you must:
+    <em>not</em> teaching the model to search. The naive search has about 5&times;10<sup>10</sup>
+    candidates and cannot be written out in 7,680 tokens, so they removed it from the trace entirely.</p>
+    <p class="reveal body">For each equation they precompute a <strong>signature</strong>, the pattern of
+    repeated symbols, and enumerate every two-digit case into a catalog of <strong>4,205 signatures</strong>,
+    each mapping to a short list of candidate digit-assignments. The model <strong>memorizes that
+    catalog</strong>; at inference it <em>recalls</em> the candidates rather than deriving them, and the
+    trace does only a short, bounded consistency check across the remaining equations. Bit-manipulation is
+    the same idea: a memorized catalog of <strong>5,238</strong> valid rule-sequences, with nearest-match
+    repair and verification.</p>
+    <p class="reveal body">That is the dual of everything above. Distilling the search fails
+    (verdict-as-token); the fix is to compute the search <em>offline</em> into a finite table the model
+    memorizes, leaving only recall and verification in the chain-of-thought. <strong>What transfers is
+    memorization and verification, not search.</strong></p>
+
+    <p class="reveal body" style="margin-bottom:6px"><strong>See the trick.</strong> Step through it on
+    one equation: recall replaces search.</p>
+    <div class="reveal bg-surface border border-line rounded-2xl shadow-soft overflow-hidden mt-2">
+      <div id="sig-eq" class="px-6 pt-7 pb-4 font-mono text-xl text-ink2 flex flex-col gap-2.5 items-start"></div>
+      <div class="flex items-center justify-center gap-4 flex-wrap px-6 py-4 bg-band border-y border-line">
+        <button id="sigBtn" class="btn-primary">Find the signature</button>
+        <span id="sig-state" class="font-mono text-sm text-mut"></span>
+      </div>
+      <div id="sig-work" class="px-6 py-5 text-[15px] text-ink2 leading-relaxed min-h-[72px]"></div>
+    </div>
+
+    <div class="reveal c85 mt-9">
+      <div class="c85-row">
+        <span class="c85-label">Distilling the search<small>this study + Open Progress Prize</small></span>
+        <div class="c85-track"><div class="c85-fill clay" style="width:85%"></div></div>
+        <span class="c85-num clay">0.85</span>
+      </div>
+      <div class="c85-row">
+        <span class="c85-label">Memorizing the search<small>team NullSira &middot; 1st place</small></span>
+        <div class="c85-track"><div class="c85-fill teal" style="width:92%"></div></div>
+        <span class="c85-num teal">0.92</span>
+      </div>
+      <p class="c85-cap">Same task, same base, same 7,680-token budget. The 7-point gap is exactly what
+      memorizing the search buys over distilling it.</p>
+    </div>
+
+    <p class="reveal cap mt-6">Method and figures from the 1st-place write-up
+    (<a class="lnk" href="https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/writeups/1st-place-solution">Kaggle &middot; GoodMeatDay, re, reopon</a>).</p>
+  </div>
+</section>
+
+<!-- 10 · MEANING -->
+<section id="meaning" class="py-16 sm:py-20 bg-band border-y border-line">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">10 &middot; what it means</p>
+    <h2 class="reveal h2">Solver coverage doesn't tell you what a model can learn.</h2>
+    <div class="reveal">
+      <p class="body">A perfect solver proves the answer <em>exists</em>; it says nothing about whether a
+      model can be taught to reason its way there. The predictor of learnability is whether a faithful
+      <strong>forward</strong> chain-of-thought exists, one that runs left-to-right without
+      guess-and-backtrack. This is the same family of limit reported for compositional tasks
+      (<a class="lnk" href="https://arxiv.org/abs/2305.18654">Dziri et al., &ldquo;Faith and Fate&rdquo;</a>)
+      and for the unfaithfulness of chain-of-thought (<a class="lnk" href="https://arxiv.org/abs/2305.04388">Turpin</a>,
+      <a class="lnk" href="https://arxiv.org/abs/2307.13702">Lanham</a>,
+      <a class="lnk" href="https://arxiv.org/abs/2301.13379">Lyu</a>), seen here through a clean
+      solvable-versus-learnable lens.</p>
+      <p class="body">It also gives a cheap screen to run before spending a dollar on training. Does a
+      purely forward derivation cover a meaningful share of instances? Does the hidden structure carry
+      information you can read off the prompt? Does removing search collapse the branching factor? If the
+      answers are no, then no amount of chain-of-thought engineering, RL, scale, or self-training will
+      teach the model to <em>search</em>. The escape is to not distil the search at all: precompute its
+      finite structure into a catalog the model memorizes and verifies against (as the 1st-place solution
+      did), or give the model a real tool, program synthesis, or search-augmented decoding.</p>
+      <aside class="aside mt-2"><b>Scope.</b> &ldquo;Learnability&rdquo; here means exact-match under
+      greedy decoding at the competition budget. SFT used one base family, mitigated by the
+      architecture sweep and the in-context frontier baselines; the in-context prompts were not
+      exhaustively optimized. The claim is about <em>this regime</em>, which is the regime the task is
+      graded in.</aside>
+    </div>
+  </div>
+</section>
+
+<!-- 11 · FOR RESEARCHERS -->
+<section id="paper" class="py-16 sm:py-20">
+  <div class="mx-auto max-w-content px-6">
+    <p class="reveal step">11 &middot; for the full detail</p>
+    <h2 class="reveal h2">The paper, the data, the code.</h2>
+    <p class="reveal body">The paper establishes all of the above with Wilson confidence intervals, the
+    full per-line fidelity audit, the architecture sweep, and the causal intervention. The benchmark
+    decomposition, the nine solvers, every experiment script, and the per-row evaluation dumps are
+    released. The three commands below reproduce the architecture sweep, the in-context frontier
+    baseline, and the forward-derivability intervention.</p>
+    <div class="reveal flex flex-wrap gap-3 mt-1">
+      <a class="btn-primary" href="paper.pdf">Read the paper (PDF)</a>
+      <a class="btn-ghost" href="https://github.com/harshpatel1692/search-not-learnable">Code &amp; data ↗</a>
+    </div>
+    <pre class="code reveal mt-6"><span class="cmt"># architecture sweep: same corpus, any base, evaluated with that model's own tokenizer</span>
+bash tinker/run_crypt_arch_ctrl.sh meta-llama/Llama-3.2-3B llama3b 4
+<span class="cmt"># in-context frontier baseline under the 7,680-token answer budget</span>
+bash tinker/run_crypt_frontier.sh 20
+<span class="cmt"># forward-derivability intervention: reveal a fraction of the key, then train + eval</span>
+python3 pipeline/synth/forward_frontier_gen.py &amp;&amp; bash tinker/run_frontier.sh</pre>
+    <pre class="code reveal mt-4">@misc{patel2026verifiable,
+  title  = {A Verifiable Search Is Not a Learnable Chain-of-Thought},
+  author = {Patel, Harsh}, year = {2026},
+  note   = {NVIDIA Nemotron Model Reasoning Challenge}
+}</pre>
+
+    <div class="reveal refs mt-8">
+      <div class="refs-title">References</div>
+      <ul>
+        <li>Wei et al. <em>Chain-of-Thought Prompting Elicits Reasoning in LLMs.</em> NeurIPS 2022. <a class="lnk" href="https://arxiv.org/abs/2201.11903">arXiv:2201.11903</a></li>
+        <li>Dziri et al. <em>Faith and Fate: Limits of Transformers on Compositionality.</em> NeurIPS 2023. <a class="lnk" href="https://arxiv.org/abs/2305.18654">arXiv:2305.18654</a></li>
+        <li>Turpin et al. <em>Language Models Don't Always Say What They Think.</em> NeurIPS 2023. <a class="lnk" href="https://arxiv.org/abs/2305.04388">arXiv:2305.04388</a></li>
+        <li>Lanham et al. <em>Measuring Faithfulness in Chain-of-Thought Reasoning.</em> 2023. <a class="lnk" href="https://arxiv.org/abs/2307.13702">arXiv:2307.13702</a></li>
+        <li>Lyu et al. <em>Faithful Chain-of-Thought Reasoning.</em> 2023. <a class="lnk" href="https://arxiv.org/abs/2301.13379">arXiv:2301.13379</a></li>
+        <li>NullSira (GoodMeatDay, re, reopon). <em>1st Place Solution.</em> Kaggle 2026. <a class="lnk" href="https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/writeups/1st-place-solution">write-up</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="border-t border-line py-10">
+  <div class="mx-auto max-w-content px-6 text-sm text-mut">
+    <p class="font-serif text-ink text-base mb-1.5">A Verifiable Search Is Not a Learnable Chain-of-Thought</p>
+    <p>Code under MIT &middot; paper &amp; figures under CC-BY-4.0 &middot; built on the NVIDIA Nemotron Model
+    Reasoning Challenge &middot; <a class="text-teal hover:text-tealD" href="https://github.com/harshpatel1692/search-not-learnable">GitHub ↗</a></p>
+  </div>
+</footer>
+
+<script src="data/traces.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

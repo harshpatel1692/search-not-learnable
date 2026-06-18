@@ -1,0 +1,2918 @@
+id,category,gold,pred,correct,truncated,n_tokens
+ccede4a0,bit_manipulation,10101010,10101010,1,0,3603
+bdb93228,bit_manipulation,11111101,00011011,0,0,3923
+28b6bc51,bit_manipulation,11011011,11110110,0,0,3562
+1f6c2fd9,bit_manipulation,00000000,00000000,1,0,3841
+8ed5c9e7,bit_manipulation,11101110,11101110,1,0,3931
+b9e7c7c4,bit_manipulation,00000000,00000001,0,0,3532
+50e57462,bit_manipulation,11100111,11101111,0,0,3334
+37664f79,bit_manipulation,10111010,10111010,1,0,3954
+fa3cd146,bit_manipulation,00001111,00000000,0,0,3852
+7b38ff97,bit_manipulation,00100000,00100100,0,0,3809
+14742dd8,bit_manipulation,01110100,01110100,1,0,3654
+1f69a85f,bit_manipulation,10111101,10111101,1,0,3629
+638224db,bit_manipulation,10000101,10000001,0,0,3878
+d9ce7d0d,bit_manipulation,00000111,00000001,0,0,3818
+ea10e59c,bit_manipulation,00101010,01001000,0,0,3978
+b8dcc19a,bit_manipulation,10101001,10101001,1,0,3705
+6f91481e,bit_manipulation,11000000,10100000,0,0,3826
+790d2fa8,bit_manipulation,11011001,11011001,1,0,4017
+a69f387a,bit_manipulation,01010011,01010011,1,0,3687
+5dd3345c,bit_manipulation,11111111,11111111,1,0,3909
+4166067c,bit_manipulation,01110110,00110110,0,0,3736
+8c06fb6f,bit_manipulation,10111111,10100101,0,0,4073
+9ab82dfb,bit_manipulation,10011100,1011100,0,0,3806
+7973c1b7,bit_manipulation,11000111,11000111,1,0,4072
+6818b555,bit_manipulation,10000000,10000001,0,0,3941
+91dc0848,bit_manipulation,00100100,00100100,1,0,3694
+c7e6e08f,bit_manipulation,10001110,10001110,1,0,3534
+aaa62881,bit_manipulation,00110001,00110000,0,0,3621
+6cfe5536,bit_manipulation,01000010,01000100,0,0,3996
+d9bdf754,bit_manipulation,00011111,00101111,0,0,3935
+75898981,bit_manipulation,11100010,11100010,1,0,3816
+c4d2cf2c,bit_manipulation,11000000,11000000,1,0,3624
+54d2b3b0,bit_manipulation,00000000,00000000,1,0,4250
+3982cfc6,bit_manipulation,00101110,01101101,0,0,3714
+2b16044a,bit_manipulation,00011111,00011001,0,0,3895
+36f13669,bit_manipulation,00000000,00000000,1,0,3509
+c113055a,bit_manipulation,00010100,00010100,1,0,3511
+030479a6,bit_manipulation,01000110,01000110,1,0,4075
+35364e9a,bit_manipulation,11111110,11111110,1,0,3830
+2f5f8f45,bit_manipulation,01000110,01011111,0,0,3717
+80e2775c,bit_manipulation,01000000,01000000,1,0,4099
+872c96f1,bit_manipulation,00010000,00010000,1,0,3927
+31966698,bit_manipulation,11110111,11101111,0,0,4029
+4ac6f0cb,bit_manipulation,10100101,1010101,0,0,3971
+48db5ccf,bit_manipulation,01101110,01101110,1,0,3846
+8e7952cc,bit_manipulation,00000100,00000100,1,0,3557
+d9ae48ad,bit_manipulation,01110000,11110000,0,0,3673
+8082a958,bit_manipulation,00000000,00000000,1,0,3768
+9016e3d3,bit_manipulation,11001001,11001001,1,0,3666
+a4ea5f61,bit_manipulation,10110111,10110111,1,0,3407
+c2985c8e,bit_manipulation,11001111,11110011,0,0,3896
+2ead53dc,bit_manipulation,00000101,00000101,1,0,3601
+c11eba1d,bit_manipulation,11010111,11010111,1,0,3883
+3fd617e5,bit_manipulation,00001111,00001111,1,0,4089
+73d0b62c,bit_manipulation,10000111,10001110,0,0,3808
+ca14582d,bit_manipulation,10101111,10101111,1,0,3763
+c8730ea5,bit_manipulation,00101011,00111011,0,0,3773
+bf002000,bit_manipulation,11001000,11001000,1,0,3680
+16122fba,bit_manipulation,11000111,11000111,1,0,3936
+30ce5200,bit_manipulation,00000010,00001010,0,0,3557
+f5d096da,bit_manipulation,00011101,00011101,1,0,3988
+4ebf50bd,bit_manipulation,10110100,10110100,1,0,3508
+5d0db0d2,bit_manipulation,11111111,11111111,1,0,3919
+26df9536,bit_manipulation,11101010,11101010,1,0,3554
+dedd66f7,bit_manipulation,01010111,10001111,0,0,3937
+4b628577,bit_manipulation,00100110,00100110,1,0,3861
+947a029b,bit_manipulation,11111101,11111101,1,0,3501
+bb326096,bit_manipulation,00101001,00101001,1,0,3560
+4ec611d7,bit_manipulation,00011110,00011110,1,0,3624
+ff746806,bit_manipulation,11000000,11000000,1,0,3544
+c29cdaed,bit_manipulation,11101010,11101010,1,0,3482
+0dfd7674,bit_manipulation,01001110,01001110,1,0,3912
+2aa0fadc,bit_manipulation,11000011,11001101,0,0,3830
+4c327b55,bit_manipulation,11011100,11011110,0,0,3808
+1fa373db,bit_manipulation,00101001,00101010,0,0,3813
+016c474c,bit_manipulation,00000100,00000100,1,0,3740
+7f6baac7,bit_manipulation,01001000,10001000,0,0,3771
+a4fceb43,bit_manipulation,00100000,00100000,1,0,3451
+fd699316,bit_manipulation,01011100,01011100,1,0,3625
+0536483a,bit_manipulation,00000000,00000000,1,0,3863
+6c01f1a7,bit_manipulation,11100001,11100011,0,0,3751
+e495b8e7,bit_manipulation,01000111,00111111,0,0,3772
+81a1d399,bit_manipulation,00110011,00110011,1,0,3405
+feef2d98,bit_manipulation,00000000,00000000,1,0,3805
+ccc42ec2,bit_manipulation,01101011,01101011,1,0,4074
+fe6d3aa3,bit_manipulation,10100010,10100010,1,0,3815
+65ab9661,bit_manipulation,00000110,000000000,0,0,4057
+a59e2ff7,bit_manipulation,01011111,01011111,1,0,3752
+8740ed31,bit_manipulation,01101000,01111010,0,0,3948
+47720c17,bit_manipulation,10001110,10001110,1,0,3972
+36300e18,bit_manipulation,10011101,10111101,0,0,3505
+e612387f,bit_manipulation,01011001,01011001,1,0,4175
+37a00064,bit_manipulation,00000001,00000001,1,0,3852
+524b744b,bit_manipulation,11111011,11011101,0,0,4015
+98bbac0f,bit_manipulation,01101011,01101011,1,0,3678
+71a661f7,bit_manipulation,11000001,11000001,1,0,3652
+6890870d,bit_manipulation,01110000,01110000,1,0,3717
+f951b8a1,bit_manipulation,11100111,11100111,1,0,3766
+baeb4a11,bit_manipulation,11010000,11010000,1,0,3696
+64a72fd3,bit_manipulation,10010111,10010011,0,0,3936
+cef15a1b,cipher,hatter writes beyond castle,hatter writes beyond castle,1,0,2615
+b944af61,cipher,alice explores the dark forest,alice explores the dark forest,1,0,1813
+58a73331,cipher,hatter chases garden,hatter chases garden,1,0,1996
+a5187932,cipher,turtle watches near village,turtle watches near village,1,0,1784
+2506adc3,cipher,student imagines crystal,student imagines crystal,1,0,1974
+b3772621,cipher,student writes around ocean,student writes around ocean,1,0,1651
+1bc458f8,cipher,rabbit explores around library,rabbit explores around library,1,0,1780
+7392acc5,cipher,wizard sees near library,wizard sees near library,1,0,2298
+5626b254,cipher,teacher sees crystal,teacher sees crystal,1,0,1633
+36386064,cipher,dragon writes inside school,dragon writes inside school,1,0,1732
+a0f78caa,cipher,bird discovers potion,bird discovers potion,1,0,2272
+2792186b,cipher,rabbit writes map,rabbit writes map,1,0,1609
+b99bdad1,cipher,the golden queen watches,the golden queen watches,1,0,1955
+11324eed,cipher,alice discovers above palace,alice discovers above puzzle,0,0,2074
+d682aabd,cipher,the magical king creates,the magical king creates,1,0,2393
+a092cafd,cipher,the clever cat dreams,the clever cat dreams,1,0,1795
+d4519f28,cipher,turtle imagines treasure,turtle imagines treasure,1,0,1994
+ce5650d9,cipher,cat follows the colorful treasure,cat follows the colorful treasure,1,0,2041
+04c1e45b,cipher,teacher explores near castle,teacher explores near castle,1,0,1807
+b9bde098,cipher,hatter dreams the clever message,hatter dreams the clever message,1,0,2446
+f5bd70c7,cipher,queen creates above wonderland,queen creates above wonderland,1,0,1969
+b89a3e4d,cipher,teacher imagines the magical key,teacher imagines the magical key,1,0,2142
+31f2ed10,cipher,the colorful mouse chases,the colorful mouse chases,1,0,2259
+9372da3d,cipher,knight watches the colorful castle,knight watches the colorful castle,1,0,1948
+c3d00ce8,cipher,knight dreams near valley,knight dreams near valley,1,0,2001
+327955b8,cipher,the wise princess draws,the wise princess draws,1,0,2149
+eb6a20e4,cipher,dragon chases inside cave,dragon chases inside cave,1,0,1743
+9f7ac89d,cipher,the colorful teacher reads,the colorful teacher reads,1,0,2119
+763c53e3,cipher,student discovers key,student discovers key,1,0,1854
+5693d1c3,cipher,the wise student creates,the wise student creates,1,0,1937
+94d26763,cipher,mouse watches the strange forest,mouse watches the strange forest,1,0,1650
+7f3ad303,cipher,king writes the dark castle,king writes the dark castle,1,0,1723
+190c6205,cipher,the silver hatter sees,the silver hatter sees,1,0,1757
+9fc369fc,cipher,alice explores inside island,alice explores inside island,1,0,1763
+6d5ef2f4,cipher,mouse studies castle,mouse studies castle,1,0,2265
+9a89e724,cipher,the strange turtle sees,the strange turtle sees,1,0,2158
+c2567e6d,cipher,cat sees near island,cat sees near island,1,0,1943
+fa15ba19,cipher,dragon found mirror,dragon found mirror,1,0,2290
+9b732c0c,cipher,dragon creates beyond garden,dragon creates beyond garden,1,0,2057
+40c70773,cipher,king reads castle,king reads castle,1,0,1941
+1d99a2ac,cipher,the colorful dragon draws,the colorful dragon draws,1,0,2150
+83140233,cipher,dragon discovers around valley,dragon discovers around valley,1,0,1813
+098c2ba5,cipher,teacher watches under wonderland,teacher watches under wonderland,1,0,2045
+78dc9bcb,cipher,princess found the wise forest,princess found the wise forest,1,0,2085
+b088f1d9,cipher,the hidden mouse draws,the hidden mouse draws,1,0,1996
+6e4afac0,cipher,rabbit follows key,rabbit follows key,1,0,2198
+9ca96a88,cipher,dragon reads the strange treasure,dragon reads the strange treasure,1,0,2166
+25cd4dab,cipher,knight reads the golden puzzle,knight reads the golden puzzle,1,0,1925
+f63c1191,cipher,dragon found the colorful message,dragon found the colorful message,1,0,1955
+e839885d,cipher,hatter explores around ocean,hatter explores around ocean,1,0,2386
+1e3e930a,cipher,dragon creates potion,dragon creates potion,1,0,1863
+fd683d67,cipher,turtle found the dark crystal,turtle found the dark crystal,1,0,2304
+c93fdc3a,cipher,king watches door,king watches door,1,0,2104
+a81ea247,cipher,the mysterious student follows,the mysterious student follows,1,0,2137
+f9fa506d,cipher,teacher creates story,teacher creates story,1,0,1721
+23eca41d,cipher,queen found key,queen found key,1,0,2055
+51c682af,cipher,queen sees door,queen sees door,1,0,1656
+39470bbb,cipher,the colorful queen explores,the colorful queen explores,1,0,2341
+b09efdc9,cipher,king watches near garden,king watches near garden,1,0,2192
+707a6d67,cipher,king chases the colorful mirror,king chases the crystal mirror,0,0,1893
+b7f05101,cipher,alice imagines under tower,alice imagines under tower,1,0,1997
+14d74a0b,cipher,dragon draws the dark book,dragon draws the dark book,1,0,1948
+6cec0a97,cipher,teacher draws the golden treasure,teacher draws the golden treasure,1,0,2050
+92087c7c,cipher,the magical rabbit follows,the magical rabbit follows,1,0,1868
+a07c827c,cipher,queen dreams around wonderland,queen dreams around wonderland,1,0,2265
+9a7bcda6,cipher,mouse dreams treasure,mouse dreams treasure,1,0,1728
+d99baa5f,cipher,hatter sees story,hatter sees story,1,0,1824
+0e865577,cipher,teacher found the silver garden,teacher found the silver garden,1,0,2335
+bf52169b,cipher,the clever wizard reads,the clever wizard reads,1,0,1735
+cf250a13,cipher,the magical knight reads,the magical knight reads,1,0,2083
+00a3fd23,cipher,wizard watches through library,wizard watches through library,1,0,2128
+b4cd34fe,cipher,the silver rabbit sees,the silver rabbit sees,1,0,1850
+5923f138,cipher,teacher chases garden,teacher chases garden,1,0,1604
+9817fda7,cipher,wizard chases secret,wizard chases secret,1,0,2258
+6bed646b,cipher,the bright cat discovers,the bright cat discovers,1,0,1926
+db89abd9,cipher,princess chases through village,princess chases through village,1,0,1888
+4f8571a3,cipher,king follows through village,king follows through village,1,0,2249
+902410ec,cipher,king explores under school,king explores under school,1,0,1905
+ff7ffa87,cipher,rabbit explores mirror,rabbit explores mirror,1,0,1891
+0f2fa7dd,cipher,mouse draws through mountain,mouse draws through mountain,1,0,2187
+9610a42b,cipher,princess discovers the silver map,princess discovers the silver map,1,0,2243
+f56e4d94,cipher,queen follows the strange door,queen follows the strange door,1,0,1977
+16642d10,cipher,king found in valley,king found in valley,1,0,1768
+94c06b54,cipher,wizard discovers around tower,wizard discovers around tower,1,0,2360
+13ee1abb,cipher,student draws secret,student draws secret,1,0,1887
+39918d5b,cipher,turtle explores crystal,turtle explores crystal,1,0,2386
+f06051ac,cipher,the magical bird writes,the magical bird writes,1,0,1846
+ee4ed522,cipher,the bright rabbit dreams,the bright rabbit dreams,1,0,1911
+ac3836f7,cipher,student chases treasure,student chases treasure,1,0,1824
+aec87b7b,cipher,mouse explores the clever mirror,mouse explores the clever mirror,1,0,1877
+fd3920e2,cipher,hatter watches in island,hatter watches in island,1,0,1718
+2b709308,cipher,mouse discovers door,mouse discovers door,1,0,1840
+6dec0181,cipher,king reads garden,king reads garden,1,0,1993
+575efbd2,cipher,the silver alice sees,the silver alice sees,1,0,2321
+fe407d0f,cipher,cat studies the silver message,cat studies the silver message,1,0,2009
+b20bba0b,cipher,princess reads above cave,princess reads above cave,1,0,1776
+01c5cb71,cipher,student follows book,student follows book,1,0,1888
+2a8957eb,cipher,teacher imagines inside garden,teacher imagines inside garden,1,0,1890
+4027a3ae,cipher,student reads puzzle,student reads puzzle,1,0,1716
+0925e4c0,cipher,teacher draws above forest,teacher draws above forest,1,0,2326
+7f21620f,cryptarithm_deduce,")""/{",]<}>>,0,0,78
+ca85809b,cryptarithm_deduce,%!^&,&#` `& ],0,0,196
+2d89386e,cryptarithm_deduce,:,%++,0,1,7680
+f2a25cf9,cryptarithm_deduce,:!,"「: (': 「:」 「(」 「:」: 「:」: :, 「(」: (, 「",0,1,7680
+d7bcb4a6,cryptarithm_deduce,}{,"""}%
+|>
+|#%",0,0,193
+be7a9eb1,cryptarithm_deduce,[]`',?,0,0,168
+b2a8384e,cryptarithm_deduce,-$,>,0,0,197
+a26065d4,cryptarithm_deduce,<',5,0,1,7680
+a12f00f4,cryptarithm_deduce,$:[,「$」 「)」 「+」 「'」 「」」 -> 「$」 「)」 「+」 「'」 「」」 could be: 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「'」 「」」 / 「$」 「)」 「+」 「,0,1,7680
+162ff61a,cryptarithm_deduce,?!,,0,1,7680
+e582df31,cryptarithm_deduce,}@,?@#,0,1,7680
+56ac76c6,cryptarithm_deduce,>&{,$^+^,0,0,338
+23c59364,cryptarithm_deduce,>/,|>',0,0,230
+eac0e775,cryptarithm_deduce,<@<(,<|]},0,0,126
+9f8fda8a,cryptarithm_deduce,\#,We will add back the input of,0,1,7680
+ae4aef23,cryptarithm_deduce,%<<,&->?,0,1,7680
+9cc02bc1,cryptarithm_deduce,:#:',:#+:',0,0,233
+d350828e,cryptarithm_deduce,}!||,2,0,1,7680
+bb9dd0ad,cryptarithm_deduce,/^//,`>}>`,0,0,157
+d23f4166,cryptarithm_deduce,{|)@,We now consider the outputs to be,0,1,7680
+434ca68a,cryptarithm_deduce,%&&,5,0,1,7680
+f80d2e10,cryptarithm_deduce,{)^],#,0,0,170
+712fe3e4,cryptarithm_deduce,:#$#,We now consider the outputs to be,0,1,7680
+23b0eb54,cryptarithm_deduce,]/:),]/,0,0,117
+d6c03e21,cryptarithm_deduce,&(`#,3,0,1,7680
+ff0e37ae,cryptarithm_deduce,"%'""`",?,0,0,331
+42bde66c,cryptarithm_deduce,>),#<+#/,0,0,165
+dbdbbaa3,cryptarithm_deduce,>'','$\$',0,0,254
+02b8d816,cryptarithm_deduce,>$$>,>\$+$>,0,0,153
+6beb3a1f,cryptarithm_deduce,??,[`?,0,0,126
+d29e19a4,cryptarithm_deduce,?|,,0,1,7680
+41554020,cryptarithm_deduce,?:,|,0,0,132
+a0db1e75,cryptarithm_deduce,"-""!",`->'`,0,0,117
+10b71e8a,cryptarithm_deduce,#}:,>^?& -&# -#: #&,0,0,185
+f06547b1,cryptarithm_deduce,"[%""",>\@,0,0,183
+191ac967,cryptarithm_deduce,!>,!,0,1,7680
+8494aad3,cryptarithm_deduce,"""`#&",Looking at operator 「」 (「」」」」」」,0,1,7680
+923ac2b5,cryptarithm_deduce,#'<@,[)@,0,0,92
+dc6c0d49,cryptarithm_deduce,:>?#,"}
+  Trying common operations reversed operands (expected (}((!( -> |>}
+  Trying common operations on identity (expected (}((!( -> |>}
+  Trying common operations reversed operands (expected }(*?? -> ?|@#
+  Trying common operations on identity (expected }(*?? -> ?|@#
+  Trying rare operations reversed operands (expected (}((!( -> |>}
+  Trying rare operations on identity (expected (}((!( -> |>}
+  Trying rare operations reversed operands (expected }(*?? -> ?|@#
+  Trying rare operations on identity (expected }(*?? -> ?|@#
+  Trying inverse rare operations reversed operands (expected (}((!( -> |>}
+  Trying inverse rare operations on identity (expected (}((!( -> |>}
+  Trying inverse rare operations reversed operands (expected }(*?? -> ?|@#
+  Trying inverse rare operations on identity (expected }(*?? -> ?|@#
+  Trying prefix rare operations reversed operands (expected (}((!( -> |>}
+  Trying prefix rare operations on identity (expected (}((!( -> |>}
+  Trying prefix rare operations reversed operands (expected }(*?? -> ?|@#
+  Trying prefix rare operations on identity (expected }(*?? -> ?|@#
+  Trying suffix rare operations reversed operands (expected (}((!( -> |>}
+  Trying suffix rare operations on identity (expected (}((!( -> |>}
+  Trying suffix rare operations reversed operands (expected }(*?? -> ?|@#
+  Trying suffix rare operations on identity (expected }(*?? -> ?|@#
+  Trying digit absolute difference reversed operands (expected (}((!( -> |>}
+  Trying digit absolute difference on identity (expected (}((!( -> |>}
+  Trying digit add reversed operands (expected (}((!( -> |>}
+  Trying digit add on identity (expected (}((!( -> |>}
+  Trying digit sub reversed operands (expected (}((!( -> |>}
+  Trying digit sub on identity (expected (}((!( -> |>}
+  Trying digit multiply reversed operands (expected (}((!( -> |>}
+  Trying digit multiply on identity (expected (}((!( -> |>}
+  Trying digit integer division reversed operands (expected (}((!( -> |>}
+  Trying digit integer division on identity (expected (}((!( -> |>}
+  Trying digit modulo reversed operands (expected (}((!( -> |>}
+  Trying digit modulo on identity (expected (}((!( -> |>}
+  Trying digit reverse operands reversed operands (expected (}((!( -> |>}
+  Trying digit reverse operands on identity (expected (}((!( -> |>}
+  Trying concatenation reversed operands (expected (}((!( -> |>}
+  Trying concatenation on identity (expected (}((!( -> |>}
+  Trying reverse concatenation reversed operands (expected (}((!( -> |>}
+  Trying reverse concatenation on identity (expected (}((!( -> |>}
+  Trying overlap reversed operands (expected (}((!( -> |>}
+  Trying overlap on identity (expected (}((!( -> |>}
+  Trying overlap with longest (expected (}((!( -> |>}
+  Trying overlap with shortest (expected (}((!( -> |>}
+  Trying cross multiply reversed operands (expected (}((!( -> |>}
+  Trying cross multiply on identity (expected (}((!( -> |>}
+  Trying cross multiply reversed operands (expected (}((!( -> |>}
+  Trying cross multiply on identity (expected (}((!( -> |>}
+  Trying cross multiply a (expected (}((!( -> |>}
+  Trying cross multiply b (expected (}((!( -> |>}
+  Trying digit cross multiply reversed operands (expected (}((!( -> |>}
+  Trying digit cross multiply on identity (expected (}((!( -> |>}
+  Trying digit cross multiply reversed operands (expected (}((!( -> |>}
+  Trying digit cross multiply on identity (expected (}((!( -> |>}
+  Trying digit add reversed operands (expected (}((!( -> |>}
+  Trying digit add on identity (expected (}((!( -> |>}
+  Trying digit sub reversed operands (expected (}((!( -> |>}
+  Trying digit sub on identity (expected (}((!( -> |>}
+  Trying digit multiply reversed operands (expected (}((!( -> |>}
+  Trying digit multiply on identity (expected (}((!( -> |>}
+  Trying digit integer division reversed operands (expected (}((!( -> |>}
+  Trying digit integer division on identity (expected (}((!( -> |>}
+  Trying digit modulo reversed operands (expected (}((!( -> |>}
+  Trying digit modulo on identity (expected (}((!( -> |>}
+  Trying digit reverse operands reversed operands (expected (}((!( -> |>}
+  Trying digit reverse operands on identity (expected (}((!( -> |>}
+  Trying concatenation reversed operands (expected (}((!( -> |>}
+  Trying concatenation on identity (expected (}((!( -> |>}
+  Trying reverse concatenation reversed operands (expected (}((!( -> |>}
+  Trying reverse concatenation on identity (expected (}((!( -> |>}
+  Trying overlap reversed operands (expected (}((!( -> |>}
+  Trying overlap on identity (expected (}((!( -> |>}
+  Trying overlap with longest (expected (}((!( -> |>}
+  Trying overlap with shortest (expected (}((!( -> |>}
+  Trying cross multiply reversed operands (expected (}((!( -> |>}
+  Trying cross multiply on identity (expected (}((!( -> |>}
+  Trying cross multiply reversed operands (expected (}((!( -> |>}
+  Trying cross multiply on identity (expected (}((!( -> |>}
+  Trying cross multiply a (expected (}((!( -> |>}
+  Trying cross multiply b (expected (}((!( -> |>}
+  Trying digit cross multiply reversed operands (expected (}((!( -> |>}
+  Trying digit cross multiply on identity (expected (}((!( -> |>}
+  Trying digit cross multiply reversed operands (expected (}((!( -> |>}
+  Trying digit cross multiply on identity (expected (}((!( -> |>}
+  Trying digit add reversed operands (expected (}((!( -> |>}
+  Trying digit add on identity (expected (}((!( -> |>}
+  Trying digit sub reversed operands (expected (}((!( -> |>}
+  Trying digit sub on identity (expected (}((!( -> |>}
+  Trying digit multiply reversed operands (expected (}((!( -> |>}
+  Trying digit multiply on identity (expected (}((!( -> |>}
+  Trying digit integer division reversed operands (expected (}((!( -> |>}
+  Trying digit integer division on identity (expected (}((!( -> |>}
+  Trying digit modulo reversed operands (expected (}((!( -> |>}
+  Trying digit modulo on identity (expected (}((!( -> |>}
+  Trying digit reverse operands reversed operands (expected (}((!( -> |>}
+  Trying digit reverse operands on identity (expected (}((!( -> |>}
+  Trying concatenation reversed operands (expected (}((!( -> |>}
+  Trying concatenation on identity (expected (}((!( -> |>}
+  Trying reverse concatenation reversed operands (expected (}((!( -> |>}
+  Trying reverse concatenation on identity (expected (}((!( -> |>}
+  Trying overlap reversed operands (expected (}((!( -> |>}
+  Trying overlap on identity (expected (}((!( -> |>}
+  Trying overlap with longest (expected (}((!( -> |>}
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (}((!( -> |}>
+  Trying digit reverse operands on identity (expected (}((!( -> |}>
+  Trying concatenation reversed operands (expected (}((!( -> |}>
+  Trying concatenation on identity (expected (}((!( -> |}>
+  Trying reverse concatenation reversed operands (expected (}((!( -> |}>
+  Trying reverse concatenation on identity (expected (}((!( -> |}>
+  Trying overlap reversed operands (expected (}((!( -> |}>
+  Trying overlap on identity (expected (}((!( -> |}>
+  Trying overlap with longest (expected (}((!( -> |}>
+  Trying overlap with shortest (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply reversed operands (expected (}((!( -> |}>
+  Trying cross multiply on identity (expected (}((!( -> |}>
+  Trying cross multiply a (expected (}((!( -> |}>
+  Trying cross multiply b (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit cross multiply reversed operands (expected (}((!( -> |}>
+  Trying digit cross multiply on identity (expected (}((!( -> |}>
+  Trying digit add reversed operands (expected (}((!( -> |}>
+  Trying digit add on identity (expected (}((!( -> |}>
+  Trying digit sub reversed operands (expected (}((!( -> |}>
+  Trying digit sub on identity (expected (}((!( -> |}>
+  Trying digit multiply reversed operands (expected (}((!( -> |}>
+  Trying digit multiply on identity (expected (}((!( -> |}>
+  Trying digit integer division reversed operands (expected (}((!( -> |}>
+  Trying digit integer division on identity (expected (}((!( -> |}>
+  Trying digit modulo reversed operands (expected (}((!( -> |}>
+  Trying digit modulo on identity (expected (}((!( -> |}>
+  Trying digit reverse operands reversed operands (expected (",0,1,7680
+cd2e20b9,cryptarithm_deduce,||`,aaa,0,0,501
+cad4b9a7,cryptarithm_deduce,"#""^",,0,1,7680
+9346686a,cryptarithm_deduce,:(,%,0,0,308
+3e5c7d9b,cryptarithm_deduce,-(|,(,0,0,106
+f7d26b8d,cryptarithm_deduce,/@,,0,1,7680
+a88f9fe3,cryptarithm_deduce,<],!<\>,0,0,341
+802c3591,cryptarithm_deduce,"`""""""",?,0,0,359
+f7828fc1,cryptarithm_deduce,"@${""",Looking at,0,1,7680
+d7662688,cryptarithm_deduce,]&]],"!( ""%]\\ (&",0,0,223
+3b206148,cryptarithm_deduce,!>?,%,0,0,625
+1fb37a08,cryptarithm_deduce,$!:,3,0,1,7680
+1d15b7e6,cryptarithm_deduce,|['{,"[^{
+{^(
+$$@
+$^@",0,1,7680
+4de466bf,cryptarithm_deduce,^[,@@@,0,0,163
+df3262bc,cryptarithm_deduce,]/,"inverse f(##-, |@-%?, ]""*@?) = f(##-, |@-%?, ]""*@?) = concatenation(##-, |@",0,1,7680
+a1503629,cryptarithm_deduce,@)[[,[}@|,0,0,277
+7a5cfe3e,cryptarithm_deduce,-#>,2,0,1,7680
+ba7d54c4,cryptarithm_deduce,>((<,)'',0,0,145
+9eaae1f1,cryptarithm_deduce,/\,[|-\,0,0,239
+2ff200fb,cryptarithm_deduce,)^,?,0,0,295
+9fbd6a44,cryptarithm_deduce,::'',3,0,1,7680
+9081e954,cryptarithm_deduce,}{#,:,0,0,89
+12734c90,cryptarithm_deduce,]@>[,][\],0,0,1508
+a610040a,cryptarithm_deduce,:(|:,none,0,0,696
+7cac497a,cryptarithm_deduce,"%""""`",,0,1,7680
+810028f1,cryptarithm_deduce,-&\,#`\`,0,0,149
+a77be9fa,cryptarithm_deduce,"[""",[}\{[} ^\,0,0,175
+b9f1d959,cryptarithm_deduce,:>,`,0,0,183
+46fcfa9c,cryptarithm_deduce,-@?,3,0,1,7680
+35a562bd,cryptarithm_deduce,(%(?,2,0,1,7680
+0b0a3643,cryptarithm_deduce,"""""",?,0,0,136
+67995540,cryptarithm_deduce,|%@,)),0,0,232
+c05828eb,cryptarithm_deduce,-!|,,0,1,7680
+9b4cffb2,cryptarithm_deduce,&@<,0,0,1,7680
+b391ffe1,cryptarithm_deduce,#!,5,0,1,7680
+193c21d5,cryptarithm_deduce,}>[[,"}
+We now consider the input of the examples to be
+  \>-`\
+  |{*|%",0,1,7680
+2c9a8df6,cryptarithm_deduce,-]\,,0,1,7680
+2a5e45a4,cryptarithm_deduce,`@},:,0,0,174
+d8d87a89,cryptarithm_deduce,{,「&」「」,0,1,7680
+a266aeb5,cryptarithm_deduce,({,(,0,0,402
+60f55291,cryptarithm_deduce,/\|?,?],0,0,167
+610bf536,cryptarithm_deduce,^,#}-#^,0,0,226
+1ab54795,cryptarithm_deduce,%,「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|」 「-\」」->「(」 「|」 「-\」」 「(」 「|,0,1,7680
+c413ac69,cryptarithm_deduce,"{""]",}/,0,0,153
+d13e92ec,cryptarithm_deduce,?&,@$]@,0,0,211
+787a1344,cryptarithm_deduce,-[\,![,0,0,139
+d7aec90d,cryptarithm_deduce,^>\,\^\\ <^:: %\#\\,0,0,182
+38c7aca1,cryptarithm_deduce,!!]{,!||{,0,0,193
+e483e127,cryptarithm_deduce,#''>,'}),0,0,242
+a644f19d,cryptarithm_deduce,#:,! ? ? ?,0,0,472
+d5602cc5,cryptarithm_deduce,(%,{,0,0,140
+fa714b83,cryptarithm_deduce,/,,0,1,7680
+0d2e94ff,cryptarithm_deduce,}}^,`^,0,0,247
+f624f57c,cryptarithm_deduce,[,00,0,1,7680
+d0e1010b,cryptarithm_deduce,!&&},!^&,0,0,203
+d2fe9d04,cryptarithm_deduce,)}),>,0,0,210
+9a19fc2d,cryptarithm_deduce,#>[,!,0,0,133
+ae64d5e4,cryptarithm_deduce,[,?,0,0,158
+289602f1,cryptarithm_deduce,?!,,0,1,7680
+6eb85496,cryptarithm_deduce,>^],-,0,0,131
+acf8c11f,cryptarithm_deduce,"""'",`}?`,0,0,203
+684de068,cryptarithm_deduce,"^""",5,0,1,7680
+cb7bb0d0,cryptarithm_guess,}!,Looking at the question operator 「:」 (「:」 「-@」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」 「:」,0,1,7680
+99b7018f,cryptarithm_guess,>\:,"|""||\",0,0,134
+9eacc9a2,cryptarithm_guess,%?}%,?,0,0,86
+0c30f561,cryptarithm_guess,-],\(\^]\),0,0,222
+8d9a062b,cryptarithm_guess,^!,I will now return the answer in \boxed,0,0,440
+4bb8c6cd,cryptarithm_guess,]}\!,"}
+We now consider the question
+`]}*\!`
+We will add back the <empty> if our answer is found to be wrong
+We now consider the question
+`]}*\!`
+We will add back the <empty> if our answer is found to be wrong
+
+Looking at the input of the question
+`]}*\!`
+We now consider the transformation mapping
+`]}`*: absent
+`\!`: absent
+
+Looking at the question
+`]}*\!`
+We now consider the question to be
+`]}`*
+`\!`
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]}`*
+`\!`
+
+Looking at the question, it is 2 characters
+We will add back the <empty> if our answer is found to be wrong.
+
+Looking at the input of the examples
+`!-|:`
+`]/-]:
+`'-\'`
+`]+\|`
+`]^-|/`
+
+Looking at the output of the examples
+`-]!`
+``
+`-`/
+`]``\`
+`-`|`
+
+Looking at the question
+`]",0,1,7680
+f3959455,cryptarithm_guess,:$,,0,0,259
+dba045b0,cryptarithm_guess,`,")@<
+{!*}^
+`@+{
+!^+[
+)`*",0,0,465
+fa4d703a,cryptarithm_guess,"^^""""",?,0,0,276
+82109e34,cryptarithm_guess,-@>,@$#,0,0,195
+48817fa0,cryptarithm_guess,##:%,:,0,0,189
+0625f633,cryptarithm_guess,@@//,「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「!」 / 「,0,1,7680
+837a6ae7,cryptarithm_guess,<>\>,<,0,0,85
+9f1015a1,cryptarithm_guess,-$\,\#)),0,0,128
+6c30f260,cryptarithm_guess,-\(,We will add,0,1,7680
+8f1af066,cryptarithm_guess,-`[,$-$`-$!,0,0,1412
+f45dd620,cryptarithm_guess,-??,Looking at 「,0,1,7680
+b1181806,cryptarithm_guess,|>>,((|&&,0,0,775
+54e8c553,cryptarithm_guess,$$<<,],0,1,7680
+5e989cc5,cryptarithm_guess,$$,{,0,1,7680
+55f4fa64,cryptarithm_guess,{{!?,{},0,0,140
+74914eac,cryptarithm_guess,::,"$${!/
+:""#
+\/]#
+/$]$
+/:`]",0,0,259
+27fdca03,cryptarithm_guess,@!,「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -> concatenation f(「}」 「/」 「$」 「/」) = 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 = 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev-> 「}」 「/」 「$」 「/」 「}」 「/」 「$」 「/」 -rev->,0,1,7680
+bbcd608d,cryptarithm_guess,''[,We now consider the outputs to,0,1,7680
+b271a61c,cryptarithm_guess,*@^,\}@}?,0,0,120
+62fc7798,cryptarithm_guess,}&,,0,1,7680
+563bf8f9,cryptarithm_guess,-'/,`,0,0,86
+9dfe5ac9,cryptarithm_guess,"'\%""",,0,1,7680
+cca64860,cryptarithm_guess,(,「$&#$^’,0,1,7680
+5d35ee2e,cryptarithm_guess,&/{,"&)""-\{[/[-\/",0,0,162
+40ba1b6f,cryptarithm_guess,$(,@$,0,0,87
+2db53c85,cryptarithm_guess,)//:,We will add back the answer language if our answer is not,0,1,7680
+02902eb3,cryptarithm_guess,>/,/!\,0,0,220
+c9e16aff,cryptarithm_guess,]:(],(,0,0,199
+f5126d48,cryptarithm_guess,${&@,,0,1,7680
+b16d6db2,cryptarithm_guess,":""<",)%[<]%-(]%:])]@,0,0,3050
+2d624cab,cryptarithm_guess,![)],{,0,1,7680
+5998ac05,cryptarithm_guess,"""<","]<""@",0,0,465
+21ee162c,cryptarithm_guess,'&{,$,0,0,125
+73e0994b,cryptarithm_guess,)<',/<\,0,0,175
+da10a947,cryptarithm_guess,^$!^,We will add back the input of the examples,0,1,7680
+7933172a,cryptarithm_guess,^/&`,We will add back the input of the examples to see if it is a prefix suffix or a symbol,0,1,7680
+cef4c8a9,cryptarithm_guess,]`,{[}],0,0,249
+e6af1658,cryptarithm_guess,)})/,,0,1,7680
+5501c054,cryptarithm_guess,[#>#,^[,0,0,209
+efc9691d,cryptarithm_guess,+$(,/,0,0,159
+07b440f0,cryptarithm_guess,@$^$,,0,0,242
+ca43107b,cryptarithm_guess,?,[@!\n@?^(\n[?@%],0,0,223
+468bf9fc,cryptarithm_guess,>!%,concatenation f(「!」 「!」 「!」) = f(「!」 「!」 「!」) = 「!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」 = 「!!!」 「!」 「!」,0,1,7680
+da51295d,cryptarithm_guess,@]`,,0,1,7680
+258b796b,cryptarithm_guess,`]|[,We now consider the input to be,0,1,7680
+0c0c6320,cryptarithm_guess,""":!|",[:\&\->>\![,0,0,130
+72413b7f,cryptarithm_guess,"""/#",3,0,1,7680
+303c84ea,cryptarithm_guess,#$$,'`$#,0,0,144
+f9799a68,cryptarithm_guess,&:/?,`?^:`,0,0,150
+fc3982df,cryptarithm_guess,"#\[""","""",0,0,235
+432b1110,cryptarithm_guess,%[:?,,0,0,271
+9ff449aa,cryptarithm_guess,"%"">","-|""|",0,0,86
+a9d91ec1,cryptarithm_guess,:'%?,,0,1,7680
+f4f92956,cryptarithm_guess,(`)),[)@,0,0,191
+1a493b13,cryptarithm_guess,-],"}
+We now consider the outputs to be
+  @@
+  :^
+  %}:
+  >@
+  $^:
+
+We will add back the operators if our answer is found in the outputs.
+
+Looking at the input of the examples
+  //+]]
+  $]+@%
+  ^:+^",0,1,7680
+51352792,cryptarithm_guess,"`""<`",(,0,0,95
+398478f6,cryptarithm_guess,:[,|)),0,0,122
+d407570e,cryptarithm_guess,)}}&,1,0,1,7680
+f1680db9,cryptarithm_guess,:|#>,$,0,0,1701
+e126a1e3,cryptarithm_guess,"<"":",,0,0,191
+5b2523e6,cryptarithm_guess,&&,「?」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「!」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$」 「!」 「&」 「?」 「$,0,1,7680
+e4ca4f9e,cryptarithm_guess,'#{,#,0,0,139
+0fcf912a,cryptarithm_guess,|#&!,?,0,0,123
+18bce168,cryptarithm_guess,@&`{,@`@,0,0,191
+0da1841f,cryptarithm_guess,(\#%,3,0,1,7680
+7a65a8eb,cryptarithm_guess,}'#',Trying common operations reversed operands (「' (」 「*」」 「?」」 「?」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」」,0,1,7680
+94b3156f,cryptarithm_guess,)'',0,0,1,7680
+4a02017f,cryptarithm_guess,'&},We will add back the input of the examples to the output if,0,1,7680
+8a0c1aab,cryptarithm_guess,<,<[($^,0,0,490
+86088a1b,cryptarithm_guess,&,!}-^`,0,0,196
+82baf39f,cryptarithm_guess,`<@,?`] @! %%,0,0,162
+6fc35fc2,cryptarithm_guess,/}',,0,1,7680
+97abca56,cryptarithm_guess,`#::,,0,1,7680
+98eed496,cryptarithm_guess,^[}`,(}#,0,0,134
+deed3497,cryptarithm_guess,\^]],\,0,0,274
+da931308,cryptarithm_guess,-(],<]>>,0,0,136
+9935aa11,cryptarithm_guess,-`#,\?\?\?,0,0,260
+d8126121,cryptarithm_guess,$$(:,\$,0,0,214
+02e871e4,cryptarithm_guess,$',\,0,0,208
+f519ace9,cryptarithm_guess,-(,'?,0,0,273
+25ee72c3,cryptarithm_guess,"#""<<",##,0,0,183
+303fc16b,cryptarithm_guess,'?,}}`}?,0,0,194
+34d1d16f,cryptarithm_guess,^|!,||:?,0,0,842
+25e89624,cryptarithm_guess,"[""$",,0,1,7680
+dad3bf21,cryptarithm_guess,-}},`}]),0,0,275
+d6f18fc8,cryptarithm_guess,-},`}>`,0,0,127
+685be3a7,cryptarithm_guess,>$$,sdrawkcab,0,1,7680
+af0e4262,cryptarithm_guess,]{,/\@,0,0,176
+c922dbb4,cryptarithm_guess,>@,,0,1,7680
+70851afe,cryptarithm_guess,"@""",{`@,0,0,182
+055a8b01,cryptarithm_guess,',0,0,1,7680
+2e8fc884,cryptarithm_guess,<[$,|<+?>,0,0,230
+31678582,cryptarithm_guess,<:),}|,0,0,211
+6cc5dafb,cryptarithm_guess,)(,,0,1,7680
+4011d4e5,equation_numeric_deduce,1483,1483,1,0,5682
+b4342b90,equation_numeric_deduce,66,66,1,0,5795
+25eb7b03,equation_numeric_deduce,23,#23,0,0,5909
+4a569495,equation_numeric_deduce,47,47,1,0,5528
+4c19c1cb,equation_numeric_deduce,0774,0774,1,0,5924
+04322d27,equation_numeric_deduce,2891,2891,1,0,5407
+1526c35d,equation_numeric_deduce,2475,2475,1,0,5598
+9a9f6025,equation_numeric_deduce,-56,-56,1,0,5913
+81c7ba7a,equation_numeric_deduce,?14,?14,1,0,5843
+3937cbf8,equation_numeric_deduce,46,46,1,0,5866
+f28681ad,equation_numeric_deduce,4314,4314,1,0,5642
+d6a2e332,equation_numeric_deduce,582,582,1,0,6285
+33093ed0,equation_numeric_deduce,-72,72,0,0,5560
+845e726e,equation_numeric_deduce,051,051,1,0,5757
+759cbdde,equation_numeric_deduce,211,211,1,0,5424
+4dbec546,equation_numeric_deduce,611,611,1,0,5605
+56343b77,equation_numeric_deduce,711,711,1,0,5523
+d7682996,equation_numeric_deduce,157,157,1,0,5648
+bdca0fac,equation_numeric_deduce,2925,2925,1,0,5710
+10ff9431,equation_numeric_deduce,0271,0271,1,0,5888
+824d4bcb,equation_numeric_deduce,64:,64,0,0,5899
+55954e3c,equation_numeric_deduce,0685,0685,1,0,5735
+d3b20e29,equation_numeric_deduce,3922,3922,1,0,5830
+cd9d50e2,equation_numeric_deduce,5293,5293,1,0,5633
+cfa59b38,equation_numeric_deduce,233,233,1,0,5877
+4f0e0273,equation_numeric_deduce,5022,5022,1,0,5663
+58f63e94,equation_numeric_deduce,501,501,1,0,5620
+93d1c7eb,equation_numeric_deduce,0154,0154,1,0,5563
+6b393b81,equation_numeric_deduce,4046,4046,1,0,6125
+552e14d7,equation_numeric_deduce,1756,1756,1,0,6422
+9b458fbc,equation_numeric_deduce,39,39,1,0,5511
+67f1bc8a,equation_numeric_deduce,1321,1321,1,0,5758
+808a8f62,equation_numeric_deduce,62,62,1,0,6174
+bad6f95d,equation_numeric_deduce,41,41,1,0,5678
+dd626fd0,equation_numeric_deduce,1671,1671,1,0,5726
+379d18b7,equation_numeric_deduce,2101,2101,1,0,5604
+dfec0ed4,equation_numeric_deduce,9370,9370,1,0,5792
+bd8aa942,equation_numeric_deduce,1881,1881,1,0,5635
+5d44a0b2,equation_numeric_deduce,8035,8035,1,0,5682
+87711597,equation_numeric_deduce,01,66,0,0,5874
+b4a15ca6,equation_numeric_deduce,301,301,1,0,5571
+4d92de08,equation_numeric_deduce,819,819,1,0,5141
+b69391b8,equation_numeric_deduce,66,66,1,0,5606
+5144897d,equation_numeric_deduce,0,064,0,0,5754
+5f6798e1,equation_numeric_deduce,34,-34,0,0,5822
+4dcc1844,equation_numeric_deduce,83,2,0,1,7680
+4f660f4b,equation_numeric_deduce,6554,6554,1,0,5598
+fd683004,equation_numeric_deduce,19,4375,0,0,5806
+422bc5b4,equation_numeric_deduce,7,7,1,0,5450
+31eb8247,equation_numeric_deduce,"""12","""12",1,0,5836
+f3cecf2f,equation_numeric_deduce,031,2023,0,0,5929
+1e248995,equation_numeric_deduce,31,31,1,0,6023
+58fed63a,equation_numeric_deduce,5,28,0,0,5965
+1c48f9aa,equation_numeric_deduce,8610,8610,1,0,5761
+e4b6ce82,equation_numeric_deduce,669,669,1,0,5792
+99cc2e07,equation_numeric_deduce,/92,/92,1,0,5864
+2afebbc3,equation_numeric_deduce,16,43,0,0,5335
+878c843c,equation_numeric_deduce,35,64,0,0,6003
+c4f66ede,equation_numeric_deduce,6125,6125,1,0,5856
+047c4111,equation_numeric_deduce,2596,2596,1,0,5226
+74fff108,equation_numeric_deduce,49,49,1,0,5600
+d8735cc4,equation_numeric_deduce,35,35,1,0,6685
+1779c616,equation_numeric_deduce,134,134,1,0,5643
+ff8409cd,equation_numeric_deduce,9,9,1,0,6101
+4d1ae327,equation_numeric_deduce,&42,6,0,1,7680
+ce7138bf,equation_numeric_deduce,3,43,0,0,5657
+3efc46c1,equation_numeric_deduce,3964,3964,1,0,5854
+7ac90433,equation_numeric_deduce,-23,-23,1,0,6117
+e9b69bf8,equation_numeric_deduce,15,15,1,0,6140
+8a800607,equation_numeric_deduce,2,2,1,0,5900
+f6db706e,equation_numeric_deduce,4,4,1,0,6156
+2ee39f5f,equation_numeric_deduce,0621,0621,1,0,5867
+c748b04f,equation_numeric_deduce,651,651,1,0,5809
+5b06502f,equation_numeric_deduce,1768,1768,1,0,6079
+64fe405e,equation_numeric_deduce,1,10,0,1,7680
+418895f5,equation_numeric_deduce,1243,1243,1,0,5582
+f2fa334a,equation_numeric_deduce,545,545,1,0,5266
+1861c08f,equation_numeric_deduce,3001,3001,1,0,6369
+744a2570,equation_numeric_deduce,5,5,1,0,5878
+febd3442,equation_numeric_deduce,13,13,1,0,5884
+e3b3573a,equation_numeric_deduce,7265,7265,1,0,5644
+3b9e33f6,equation_numeric_deduce,501,501,1,0,5589
+74b9b0ec,equation_numeric_deduce,16,16,1,0,5578
+6402d0ee,equation_numeric_deduce,\93,\backslash 93,0,0,6268
+6f37d7be,equation_numeric_deduce,01,01,1,0,6861
+b1bc3731,equation_numeric_deduce,63,63,1,0,5734
+224efda1,equation_numeric_deduce,7,]7,0,0,5814
+3687b4bb,equation_numeric_deduce,4602,4602,1,0,6146
+d9bedb64,equation_numeric_deduce,(1,(1,1,0,6035
+37f04e3e,equation_numeric_deduce,0092,0092,1,0,5791
+8d2546a5,equation_numeric_deduce,1211,1211,1,0,5675
+c11777c0,equation_numeric_deduce,56,56,1,0,5721
+1db0c6fe,equation_numeric_deduce,72,72,1,0,5952
+1cb4d524,equation_numeric_deduce,6314,6314,1,0,6166
+09302769,equation_numeric_deduce,182,271,0,0,5439
+99e2cf41,equation_numeric_deduce,4415,4415,1,0,5844
+1497f970,equation_numeric_deduce,671,671,1,0,5811
+4d714623,equation_numeric_deduce,107,107,1,0,6105
+e2bb1d9f,equation_numeric_deduce,-91,91,0,0,5324
+00d8b3db,equation_numeric_deduce,17/,17,0,0,5783
+5a9fcf68,equation_numeric_guess,4443,32,0,1,7680
+b451be8a,equation_numeric_guess,64,1,0,0,5638
+5d89a09c,equation_numeric_guess,0,0,1,0,5559
+4f06e1c0,equation_numeric_guess,351,3807,0,0,6034
+92e320c9,equation_numeric_guess,3511,33,0,0,5854
+ef1b13ac,equation_numeric_guess,8,47,0,1,7680
+4e840a1a,equation_numeric_guess,38,68,0,0,5823
+e9e6b620,equation_numeric_guess,25,156,0,0,5938
+68903918,equation_numeric_guess,4072,-10,0,0,5851
+ea6d926a,equation_numeric_guess,87,87,1,0,5505
+7d8fe3a8,equation_numeric_guess,7644,7644,1,0,5504
+32e9a308,equation_numeric_guess,124,836,0,0,5593
+c561264c,equation_numeric_guess,0279,81,0,0,5563
+6e6401d7,equation_numeric_guess,1,9493,0,0,5493
+078df00e,equation_numeric_guess,1031,68,0,0,5858
+07aef27f,equation_numeric_guess,-62,7501,0,0,5927
+5039d1a0,equation_numeric_guess,041,0806,0,0,1167
+ea829b32,equation_numeric_guess,151,]43,0,0,6316
+260f20c1,equation_numeric_guess,43,87,0,0,5755
+124db55f,equation_numeric_guess,4447,,0,1,7680
+6f88e240,equation_numeric_guess,445,46,0,1,7680
+272bde97,equation_numeric_guess,55,45,0,0,5402
+a361a1b7,equation_numeric_guess,:46,5399,0,0,5853
+48c25e0e,equation_numeric_guess,53,473,0,0,5291
+648e2da2,equation_numeric_guess,031,-54,0,0,3375
+e2f2bea4,equation_numeric_guess,3075,2629,0,0,5615
+386b6d03,equation_numeric_guess,671,3667,0,0,5855
+662fd21c,equation_numeric_guess,17,123,0,0,5492
+592107c3,equation_numeric_guess,/13,4650,0,0,5565
+899e7ce8,equation_numeric_guess,1@,7501,0,0,5976
+6ac4d8c2,equation_numeric_guess,831,-4,0,0,5549
+c84544db,equation_numeric_guess,2024,|4,0,0,6364
+d6baf5e6,equation_numeric_guess,7847,571,0,0,5769
+275db7d4,equation_numeric_guess,6221,83,0,0,6056
+5f6b6ea3,equation_numeric_guess,6,045,0,0,6073
+e307429d,equation_numeric_guess,6523,03,0,0,5940
+6385674a,equation_numeric_guess,69,69,1,0,5557
+8ae8e12a,equation_numeric_guess,9,35,0,1,7680
+28f7012c,equation_numeric_guess,7541,4623,0,0,2830
+f971f8dd,equation_numeric_guess,131,88,0,1,7680
+e7b87b82,equation_numeric_guess,10,1130,0,0,5668
+e1728524,equation_numeric_guess,1089,991,0,0,5632
+be877da5,equation_numeric_guess,02,9193,0,0,6123
+1eaf6228,equation_numeric_guess,483,93,0,0,5791
+9c91b226,equation_numeric_guess,03,55,0,0,5698
+f642e7b5,equation_numeric_guess,-74,7013,0,0,5923
+1c4861e6,equation_numeric_guess,993,93,0,0,5603
+cc735e46,equation_numeric_guess,4482,126,0,0,5283
+32a31236,equation_numeric_guess,44,5296,0,0,5959
+7475f2bf,equation_numeric_guess,111,60,0,0,6039
+c2945f2c,equation_numeric_guess,1976,761,0,0,5322
+e33f1695,equation_numeric_guess,5554,2970,0,0,5562
+f2ff37b2,equation_numeric_guess,2639,9129,0,0,5502
+bba186c3,equation_numeric_guess,704,14,0,0,5745
+69fe4b0d,equation_numeric_guess,59,769,0,0,6039
+be5971d7,equation_numeric_guess,-85,401,0,0,5167
+9aa48392,equation_numeric_guess,151,124,0,0,5619
+c6961082,equation_numeric_guess,6831,30,0,0,6750
+1b019515,equation_numeric_guess,134,4389,0,0,5605
+20f0fac9,equation_numeric_guess,2976,3,0,0,5920
+966c1f9f,equation_numeric_guess,66,76,0,0,5902
+23f98595,equation_numeric_guess,03,8613,0,0,6104
+66a0856f,equation_numeric_guess,38,7436,0,0,5566
+5a0d5d2a,equation_numeric_guess,341,61,0,0,5623
+aca5c614,equation_numeric_guess,-5,6314,0,0,6179
+688c807b,equation_numeric_guess,1793,&36,0,0,6037
+6bef7413,equation_numeric_guess,-28,029,0,0,5840
+dde06528,equation_numeric_guess,8452,52,0,1,7680
+8e3e4928,equation_numeric_guess,5,0757,0,0,5835
+603ad93b,equation_numeric_guess,9411,160,0,0,6016
+065f9dea,equation_numeric_guess,*53,4128,0,0,5583
+c763054a,equation_numeric_guess,85,001,0,0,5652
+1da822f1,equation_numeric_guess,598,0,0,0,6074
+e4cc7639,equation_numeric_guess,113,16,0,0,5542
+228bd26b,equation_numeric_guess,4012,480,0,0,6193
+27661a37,equation_numeric_guess,741,173,0,0,5557
+b7ad0671,equation_numeric_guess,16,2271,0,0,5895
+fdd9ff2b,equation_numeric_guess,825,8,0,0,6037
+a87565bb,equation_numeric_guess,67,-04,0,0,5410
+861cb154,equation_numeric_guess,2271,38,0,0,5581
+053f4545,equation_numeric_guess,731,49,0,1,7680
+940df3f4,equation_numeric_guess,5102,901,0,0,5775
+9ef98294,equation_numeric_guess,64],5905,0,0,6210
+0f8452df,equation_numeric_guess,159,6120,0,0,5203
+bce10d97,equation_numeric_guess,2,4531,0,0,5784
+707fd23a,equation_numeric_guess,3235,119,0,0,5654
+ed80cf3e,equation_numeric_guess,1431,1431,1,0,5491
+ead0e1dd,equation_numeric_guess,911,35,0,0,5590
+6be00ae9,equation_numeric_guess,401,40,0,0,5729
+21dff465,equation_numeric_guess,@9,155,0,0,5739
+b8f00ea7,equation_numeric_guess,5615,:91,0,0,5657
+ec37a5e7,equation_numeric_guess,-17,0822,0,0,6923
+44a57762,equation_numeric_guess,5011,28,0,0,5796
+528ec0d8,equation_numeric_guess,-39,62,0,0,5526
+4684abe0,equation_numeric_guess,-12,8674,0,0,6446
+3687bc41,equation_numeric_guess,121,93,0,0,5589
+b2e5c467,equation_numeric_guess,9111,68,0,0,5952
+672029b2,equation_numeric_guess,31,2833,0,0,6117
+7a9711b1,equation_numeric_guess,1838,2,0,0,6021
+0c0683c3,equation_numeric_guess,138,20,0,0,6474
+1d47b46e,gravity,26.63,26.63,1,0,3198
+a6f82438,gravity,74.43,74.42,1,0,2807
+e5dd205d,gravity,157.6,157.61,1,0,3490
+99e9a1d9,gravity,12.21,12.2,1,0,4645
+162f9eb3,gravity,142.42,142.41,1,0,2947
+7b9c21ea,gravity,7.08,7.08,1,0,2250
+58f6b6a7,gravity,15.68,15.69,1,0,3473
+ba70f3c5,gravity,73.73,73.73,1,0,2656
+e4ebb7e9,gravity,125.6,125.61,1,0,4702
+bed05e5b,gravity,152.83,152.86,1,0,2239
+4707a5ad,gravity,106.53,106.53,1,0,2381
+0b5d02f4,gravity,29.19,29.19,1,0,3951
+8b226055,gravity,8.94,8.94,1,0,4575
+87bc4751,gravity,34.14,34.15,1,0,5189
+d77e6fa6,gravity,78.44,78.43,1,0,4026
+ce32bb72,gravity,12.78,12.78,1,0,3964
+7ab01f65,gravity,38.69,38.68,1,0,2385
+ad364a7c,gravity,176.52,176.5,1,0,2800
+35350568,gravity,190.87,190.86,1,0,3621
+7c68cc31,gravity,26.34,26.34,1,0,2855
+94579d00,gravity,5.06,5.06,1,0,2552
+e3e70e8e,gravity,60.56,60.56,1,0,2239
+7dd9334d,gravity,138.11,138.12,1,0,3774
+382d19a5,gravity,99.65,99.65,1,0,3379
+d7ec900e,gravity,28.76,28.76,1,0,3573
+e406f8e6,gravity,36.28,36.28,1,0,3406
+d44b77f7,gravity,26.8,26.79,1,0,2833
+85bc954c,gravity,47.05,47.05,1,0,3155
+a51b62b6,gravity,27.51,27.51,1,0,2967
+8c9e95a4,gravity,197.61,197.61,1,0,3095
+da0c7a5e,gravity,171.79,171.78,1,0,4668
+a043e4da,gravity,54.1,54.12,1,0,3614
+7b3b37d5,gravity,25.51,25.51,1,0,2830
+5c66563b,gravity,75.35,75.35,1,0,2670
+b5ab0286,gravity,116.5,116.49,1,0,2058
+0a3c8962,gravity,54.36,54.37,1,0,3270
+853849cc,gravity,14.73,14.72,1,0,3529
+077b20f7,gravity,76.59,76.58,1,0,4447
+684d50d4,gravity,50.39,50.38,1,0,2056
+13394598,gravity,3.77,3.77,1,0,2459
+964c8468,gravity,100.74,100.76,1,0,4005
+44415184,gravity,12.04,12.03,1,0,4463
+c7010f8f,gravity,11.84,11.83,1,0,3113
+b4a42843,gravity,131.83,131.82,1,0,4493
+0d069918,gravity,17.43,17.43,1,0,2480
+7f693bf8,gravity,92.23,92.24,1,0,2631
+bb742385,gravity,31.4,31.39,1,0,2495
+af9989c2,gravity,28.99,28.99,1,0,3096
+d6280b68,gravity,65.26,65.27,1,0,2719
+1d8d8655,gravity,31.23,31.22,1,0,2868
+bb9611b7,gravity,131.18,131.18,1,0,4021
+1fba92ee,gravity,11.78,11.78,1,0,3399
+54a20616,gravity,4.49,4.49,1,0,3429
+bc38b75b,gravity,25.24,25.25,1,0,4471
+2e53e971,gravity,128.01,128.02,1,0,3358
+96837558,gravity,6.69,6.69,1,0,2980
+eefdd08e,gravity,78.64,78.64,1,0,2418
+24d81e42,gravity,9.56,9.56,1,0,3133
+50eab1a0,gravity,133.55,133.54,1,0,4332
+e3b8096e,gravity,29.29,29.29,1,0,2284
+5c3be436,gravity,133.36,133.36,1,0,2755
+00463d04,gravity,50.51,50.51,1,0,4985
+af271da8,gravity,114.84,114.82,1,0,2827
+8405e016,gravity,74.21,74.2,1,0,2721
+a0baa626,gravity,86.82,86.82,1,0,2196
+3685d906,gravity,8.76,8.76,1,0,4313
+3a6e7b0b,gravity,96.14,96.13,1,0,3729
+703b3d10,gravity,15.32,15.32,1,0,3095
+a6f1dc3e,gravity,110.92,110.91,1,0,2419
+d61269a7,gravity,85.79,85.78,1,0,3279
+b2f2ad54,gravity,20.55,20.55,1,0,4292
+ab015d3c,gravity,87.34,87.34,1,0,2402
+a4a5fe71,gravity,102.64,102.63,1,0,2714
+3178caeb,gravity,146.97,146.98,1,0,2486
+bc0cbe05,gravity,25.28,25.28,1,0,3134
+ae4f74ba,gravity,55.91,55.9,1,0,2946
+caf5574a,gravity,150.45,150.44,1,0,3845
+2cbcd822,gravity,8.5,8.49,1,0,3878
+755ade1a,gravity,108.06,108.06,1,0,3089
+927847fe,gravity,164.36,164.36,1,0,3720
+87eb7ce0,gravity,29.13,29.13,1,0,3753
+76f3250f,gravity,70.74,70.76,1,0,4575
+7b47f88d,gravity,9.0,9.0,1,0,2298
+f67b8172,gravity,24.16,24.16,1,0,3441
+97d27023,gravity,8.09,8.09,1,0,2692
+dfda1b37,gravity,21.24,21.24,1,0,3100
+7cf481af,gravity,15.34,15.34,1,0,2521
+d1a67a7b,gravity,28.84,28.84,1,0,2467
+16d0c65e,gravity,73.6,73.59,1,0,3259
+60fba75b,gravity,61.36,61.36,1,0,2365
+62945ac6,gravity,218.6,218.63,1,0,3694
+b61bb6c6,gravity,7.75,7.75,1,0,2542
+cd42f555,gravity,16.03,16.03,1,0,3575
+f4eab30a,gravity,61.69,61.69,1,0,4899
+0e81751f,gravity,31.59,31.59,1,0,2366
+a6f1b553,gravity,89.4,88.44,0,0,3360
+1f07abea,gravity,19.24,19.24,1,0,1525
+853a0e3b,gravity,76.83,76.83,1,0,2375
+0040ff76,gravity,154.62,154.63,1,0,4158
+f728db66,gravity,10.93,10.92,1,0,2184
+8479c182,numeral,XXX,XXX,1,0,944
+80a09335,numeral,LXXXVI,LXXXVI,1,0,1008
+85d877a2,numeral,XXII,XXII,1,0,958
+4ac1279b,numeral,LXXI,LXXI,1,0,961
+25fda154,numeral,LXXXI,LXXXI,1,0,986
+339f3dfa,numeral,LX,LX,1,0,928
+a7b9b0bf,numeral,XXXVII,XXXVII,1,0,988
+ef032cce,numeral,VI,VI,1,0,927
+7006831a,numeral,XXIII,XXIII,1,0,988
+64eacc64,numeral,XXX,XXX,1,0,943
+ebd70c52,numeral,LVII,LVII,1,0,953
+a989f88c,numeral,XCVII,XCVII,1,0,967
+25a2b86b,numeral,XXVII,XXVII,1,0,972
+2972579b,numeral,XXVII,XXVII,1,0,979
+ee07fd5c,numeral,XV,XV,1,0,939
+a7f5d296,numeral,LXIV,LXIV,1,0,962
+b1911ff3,numeral,LXVIII,LXVIII,1,0,991
+586af207,numeral,LXII,LXII,1,0,954
+76006f59,numeral,XXXIX,XXXIX,1,0,957
+30b94c6b,numeral,LXIII,LXIII,1,0,991
+a76146bb,numeral,XVI,XVI,1,0,937
+c6359bdd,numeral,VI,VI,1,0,919
+18b856d8,numeral,LIX,LIX,1,0,940
+1fd4d961,numeral,XXX,XXX,1,0,948
+be2f9734,numeral,IV,IV,1,0,902
+deb4943f,numeral,LXVII,LXVII,1,0,987
+d83f2d20,numeral,VI,VI,1,0,919
+51125e5e,numeral,XIII,XIII,1,0,952
+9b9bd32e,numeral,LXXVI,LXXVI,1,0,976
+c2b593de,numeral,LIX,LIX,1,0,932
+21115993,numeral,LXXV,LXXV,1,0,957
+2d69e4ee,numeral,LXVI,LXVI,1,0,972
+7851d905,numeral,LVII,LVII,1,0,968
+95aade61,numeral,LIII,LIII,1,0,960
+d8181488,numeral,XCV,XCV,1,0,932
+8b4a1460,numeral,LXII,LXII,1,0,965
+3416dfa4,numeral,XXIV,XXIV,1,0,958
+9586ea0d,numeral,LXXVIII,LXXVIII,1,0,1014
+0e4795a7,numeral,XXXVII,XXXVII,1,0,996
+191ef87e,numeral,XI,XI,1,0,937
+a3c07781,numeral,XVIII,XVIII,1,0,980
+cb7ddf6a,numeral,LI,LI,1,0,939
+c65ab88f,numeral,LI,LI,1,0,925
+82f5bb65,numeral,IV,IV,1,0,915
+b85d359c,numeral,XXIII,XXIII,1,0,971
+daf87b91,numeral,XXXVI,XXXVI,1,0,988
+c64ebe75,numeral,XIX,XIX,1,0,923
+4ebda101,numeral,XXXVIII,XXXVIII,1,0,1006
+a11ce574,numeral,LXXI,LXXI,1,0,967
+8b0cab23,numeral,LXVI,LXVI,1,0,958
+e97073be,numeral,XC,XC,1,0,922
+56637233,numeral,LXXIX,LXXIX,1,0,960
+cc0fd7a8,numeral,LXV,LXV,1,0,946
+a78ec816,numeral,LXXIII,LXXIII,1,0,997
+45f536ce,numeral,XXI,XXI,1,0,942
+1ebf99aa,numeral,XVII,XVII,1,0,966
+05e780c4,numeral,III,III,1,0,943
+f82aaac4,numeral,XXVII,XXVII,1,0,969
+a2c36fcf,numeral,XXXII,XXXII,1,0,989
+72d9b836,numeral,V,V,1,0,903
+fee15cc5,numeral,III,III,1,0,951
+6a5c65fd,numeral,LI,LI,1,0,932
+188fe6d4,numeral,IX,IX,1,0,922
+9517c8fe,numeral,LXIV,LXIV,1,0,955
+ddc8ab31,numeral,XXIV,XXIV,1,0,958
+ad3e6f0d,numeral,LXVII,LXVII,1,0,971
+e03315c8,numeral,VII,VII,1,0,934
+af652c7d,numeral,LXXIX,LXXIX,1,0,961
+05195c8e,numeral,XCIV,XCIV,1,0,946
+2d27ccfa,numeral,LII,LII,1,0,947
+8d5b28a2,numeral,XXXIII,XXXIII,1,0,1005
+e8f13284,numeral,LXXXI,LXXXI,1,0,978
+2f3f1f09,numeral,LXXXI,LXXXI,1,0,996
+7fcfe0db,numeral,XCII,XCII,1,0,958
+4cd390ad,numeral,LVI,LVI,1,0,956
+861f02de,numeral,XVII,XVII,1,0,958
+20c15ca0,numeral,LXXXII,LXXXII,1,0,993
+9bbacb75,numeral,XCVIII,XCVIII,1,0,970
+4c8fbdda,numeral,LXII,LXII,1,0,954
+7ed1cc05,numeral,LI,LI,1,0,939
+7163d1f6,numeral,XV,XV,1,0,940
+2d5dc8af,numeral,LXXIX,LXXIX,1,0,972
+f62bea45,numeral,III,III,1,0,940
+7823b991,numeral,XI,XI,1,0,938
+893908bc,numeral,LXXVII,LXXVII,1,0,991
+a087d342,numeral,XXV,XXV,1,0,959
+16e7c742,numeral,XII,XII,1,0,936
+42716da3,numeral,X,X,1,0,922
+b8f1e3b9,numeral,LXXXV,LXXXV,1,0,977
+c0cf74f0,numeral,XXXV,XXXV,1,0,962
+053dbbbc,numeral,VI,VI,1,0,919
+fe44dfa9,numeral,XXI,XXI,1,0,951
+1347c69f,numeral,II,II,1,0,938
+d58f81ad,numeral,LV,LV,1,0,931
+4abb7194,numeral,LXI,LXI,1,0,957
+bebef9bd,numeral,XXXV,XXXV,1,0,969
+37dc0d3c,numeral,IV,IV,1,0,924
+a0e171c2,numeral,XLIII,XLIII,1,0,956
+b3431ac7,numeral,LXI,LXI,1,0,949
+fab4a4c1,numeral,XIV,XIV,1,0,939
+9fafe218,unit_conversion,29.59,29.59,1,0,2321
+abd83957,unit_conversion,11.09,11.09,1,0,2281
+994e49e5,unit_conversion,56.31,56.28,1,0,2426
+303ce694,unit_conversion,57.19,57.19,1,0,2304
+33ff2c93,unit_conversion,47.25,47.23,1,0,2011
+a58d446b,unit_conversion,29.95,29.94,1,0,1661
+ecc1cf14,unit_conversion,59.84,59.83,1,0,2364
+e8c4a0bf,unit_conversion,22.08,22.08,1,0,2861
+b2865616,unit_conversion,58.68,58.67,1,0,3770
+a00b9455,unit_conversion,10.91,10.91,1,0,1859
+ff20f28e,unit_conversion,17.55,17.55,1,0,2712
+a9445539,unit_conversion,10.56,10.55,1,0,2356
+e830b594,unit_conversion,27.55,27.56,1,0,2895
+8c431d6a,unit_conversion,10.60,10.60,1,0,2401
+8f07c5f9,unit_conversion,48.03,48.03,1,0,2495
+3b48a251,unit_conversion,20.30,20.30,1,0,2484
+a7ea7c33,unit_conversion,20.86,20.85,1,0,2104
+1bf3f0f1,unit_conversion,6.97,6.96,1,0,1176
+88245d05,unit_conversion,26.38,26.37,1,0,2387
+51994791,unit_conversion,47.21,47.18,1,0,3974
+b539561d,unit_conversion,82.22,82.22,1,0,3295
+c7e03ea1,unit_conversion,18.55,18.56,1,0,1609
+665cc304,unit_conversion,30.66,30.66,1,0,1556
+c91ba3ac,unit_conversion,36.61,36.60,1,0,2792
+30b018de,unit_conversion,52.77,52.78,1,0,2093
+8dc30329,unit_conversion,22.72,22.71,1,0,3323
+4fe21caa,unit_conversion,16.92,16.92,1,0,1685
+07417dd5,unit_conversion,22.27,22.27,1,0,1581
+4d6ab936,unit_conversion,45.90,45.91,1,0,3576
+87450705,unit_conversion,86.67,86.68,1,0,3102
+a298484f,unit_conversion,39.82,39.81,1,0,1777
+44e719f9,unit_conversion,22.65,22.65,1,0,1204
+f40140b3,unit_conversion,39.74,39.73,1,0,1404
+3d70f1c5,unit_conversion,53.55,53.56,1,0,1812
+aab3127a,unit_conversion,13.73,13.72,1,0,2056
+a966930a,unit_conversion,29.15,29.15,1,0,3103
+0140788e,unit_conversion,38.74,38.75,1,0,2209
+63e3ce8a,unit_conversion,17.84,17.84,1,0,1875
+2a57aa45,unit_conversion,44.56,44.56,1,0,2647
+0f7337a1,unit_conversion,18.86,18.86,1,0,1944
+f5c57d9e,unit_conversion,12.30,12.30,1,0,2187
+7c98342c,unit_conversion,14.88,14.88,1,0,3974
+f75f4753,unit_conversion,25.67,25.66,1,0,1729
+eff63b8c,unit_conversion,17.95,17.94,1,0,1728
+925fb2b9,unit_conversion,34.57,34.59,1,0,2341
+9a291cc3,unit_conversion,39.55,39.55,1,0,2894
+f9103e02,unit_conversion,52.52,52.53,1,0,2090
+70854a3a,unit_conversion,86.61,86.61,1,0,3564
+239f496a,unit_conversion,36.78,36.79,1,0,2684
+b2fb7d10,unit_conversion,33.05,33.04,1,0,2678
+5f18a37f,unit_conversion,9.05,9.06,1,0,1842
+c22d205e,unit_conversion,11.23,11.23,1,0,3807
+b045e91a,unit_conversion,26.10,26.10,1,0,1233
+7d458dfa,unit_conversion,8.86,8.85,1,0,2052
+f8bd40c0,unit_conversion,54.74,54.74,1,0,2057
+99948ad9,unit_conversion,26.17,26.18,1,0,2502
+dbc542da,unit_conversion,9.82,9.82,1,0,997
+18ad64a2,unit_conversion,36.44,36.41,1,0,2440
+6532bbfa,unit_conversion,16.79,16.80,1,0,1957
+80fdaa17,unit_conversion,13.46,13.46,1,0,1856
+da85bf04,unit_conversion,28.40,28.38,1,0,3517
+901f7a63,unit_conversion,32.91,32.91,1,0,2948
+668c240b,unit_conversion,18.66,18.66,1,0,2180
+4e694caf,unit_conversion,47.03,47.03,1,0,3168
+4a9ee0b5,unit_conversion,37.37,37.38,1,0,1931
+9342e055,unit_conversion,42.49,42.49,1,0,1380
+31810496,unit_conversion,3.35,3.35,1,0,2122
+3d25d502,unit_conversion,24.59,24.56,1,0,2897
+f757b0f0,unit_conversion,12.71,12.71,1,0,3291
+d527f819,unit_conversion,28.21,28.20,1,0,3201
+bcf66e1d,unit_conversion,39.43,39.42,1,0,2838
+cf4df746,unit_conversion,35.23,35.20,1,0,2544
+53f74620,unit_conversion,12.62,12.62,1,0,2430
+17c4b57e,unit_conversion,64.81,64.79,1,0,2105
+ce195c74,unit_conversion,32.03,32.02,1,0,2635
+5420acec,unit_conversion,25.67,25.66,1,0,1814
+93626d26,unit_conversion,21.60,21.58,1,0,1982
+8ce54da2,unit_conversion,6.95,6.95,1,0,1894
+b794b844,unit_conversion,22.84,22.81,1,0,3899
+0712d262,unit_conversion,21.38,21.38,1,0,2043
+f0b8dc9b,unit_conversion,15.04,15.03,1,0,2019
+68368ba9,unit_conversion,13.39,13.38,1,0,2378
+d5400bdd,unit_conversion,47.67,47.66,1,0,1813
+948ce7d7,unit_conversion,71.21,71.20,1,0,1752
+3aef986b,unit_conversion,68.55,68.53,1,0,2186
+dfbcf27a,unit_conversion,3.41,3.41,1,0,1481
+087cc5ba,unit_conversion,55.73,55.71,1,0,1460
+997a3321,unit_conversion,21.63,21.63,1,0,2289
+741c191c,unit_conversion,47.31,47.29,1,0,2557
+7548703b,unit_conversion,7.90,7.91,1,0,1677
+dae6dea8,unit_conversion,63.16,63.16,1,0,3487
+f1d60ece,unit_conversion,71.35,71.33,1,0,1402
+d3daee34,unit_conversion,2.74,2.74,1,0,2848
+4833946a,unit_conversion,60.65,60.63,1,0,2038
+454976da,unit_conversion,20.80,20.80,1,0,2299
+e9096a58,unit_conversion,15.03,15.04,1,0,2353
+340f68d0,unit_conversion,14.96,14.96,1,0,1483
+616299f2,unit_conversion,13.79,13.79,1,0,1428
+12cce7b5,unit_conversion,72.59,72.61,1,0,2734
+3f28c4a1,unit_conversion,3.72,3.72,1,0,2407

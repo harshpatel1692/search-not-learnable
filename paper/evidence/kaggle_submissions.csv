@@ -1,0 +1,35 @@
+Warning: Looks like you're using an outdated `kaggle` version (installed: 2.2.1), please consider upgrading to the latest version (2.2.2)
+ref,fileName,date,description,status,publicScore,privateScore
+53725089,submission.zip,2026-06-15 23:27:48.447000,,SubmissionStatus.COMPLETE,0.848,0.844
+53720252,submission.zip,2026-06-15 18:33:27.233000,"v19 tinker: from-base 2e-4 1ep (honest crypt + v17 recipe), SVD rank32 + backbone rename; key-diff CLEAN vs v17 0.85",SubmissionStatus.COMPLETE,0.808,0.824
+53665271,submission.zip,2026-06-14 08:09:54.497000,v18 = v17 + bit-STaR (additive); A/B the bit lever over 0.85,SubmissionStatus.COMPLETE,0.848,0.856
+53626431,submission.zip,2026-06-13 05:47:37,"v17 from-base merge (Kaggle, no SVD tax): easy-4 + per-bit-dialect bit + v15 eq renders + crypt concat/guess harvest",SubmissionStatus.COMPLETE,0.852,0.852
+53588917,submission.zip,2026-06-12 04:23:54.237000,"v16: Ali-grammar repair (alipass+alifix compressed bit dialect x3, Ali-verbatim rest), warm-start asalhi, 1ep 5e-6",SubmissionStatus.COMPLETE,0.720,0.728
+53588517,submission.zip,2026-06-12 04:05:24.510000,"tinker v16-warmstart-e1 (from-base SFT, oracle 0.8165): SVD-conversion calibration point",SubmissionStatus.COMPLETE,0.796,0.816
+53586921,submission.zip,2026-06-12 02:47:17.810000,tinker e2e test: no-op dummy adapter via conversion chain (expect ~0.46),SubmissionStatus.COMPLETE,0.504,0.512
+53580845,submission.zip,2026-06-11 21:21:59.473000,"v15: warm-start 0.86 + solver-rendered bit(global-tap)/crypt(tiered)/eq(early-stop)/cipher(final-redecode) CoT, 1ep LR5e-6",SubmissionStatus.COMPLETE,0.828,0.840
+53469888,submission.zip,2026-06-08 07:36:21.613000,,SubmissionStatus.COMPLETE,0.544,0.592
+53461977,submission.zip,2026-06-08 00:15:00.287000,,SubmissionStatus.COMPLETE,0.596,0.636
+53457248,submission.zip,2026-06-07 17:45:36.663000,,SubmissionStatus.COMPLETE,0.572,0.592
+53450680,submission.zip,2026-06-07 12:32:03.270000,,SubmissionStatus.COMPLETE,0.528,0.552
+53438173,submission.zip,2026-06-07 02:33:57.297000,,SubmissionStatus.COMPLETE,0.520,0.528
+53406518,submission.zip,2026-06-06 01:43:56.010000,,SubmissionStatus.COMPLETE,0.840,0.852
+53378508,submission.zip,2026-06-05 02:13:27.397000,,SubmissionStatus.COMPLETE,0.844,0.860
+53351847,submission.zip,2026-06-04 06:23:37.310000,MOE false - testing ali adapter and replicating 0.86 LB,SubmissionStatus.COMPLETE,0.852,0.852
+53349332,submission.zip,2026-06-04 04:37:16.203000,Making sure the pipeline is working as expected and ali's 86LB adapter is yielding the same.,SubmissionStatus.COMPLETE,0.468,0.520
+53345188,submission.zip,2026-06-04 01:18:53.810000,,SubmissionStatus.COMPLETE,0.492,0.544
+53326035,submission.zip,2026-06-03 11:42:51.557000,Ali tinker adapter as is to confirm 0.86,SubmissionStatus.COMPLETE,0.856,0.832
+53320779,submission.zip,2026-06-03 08:43:46.537000,,SubmissionStatus.COMPLETE,0.532,0.536
+53308002,submission.zip,2026-06-03 00:47:05.680000,,SubmissionStatus.COMPLETE,0.524,0.500
+53273997,submission.zip,2026-06-02 02:35:37.013000,Ali 86LB adapter 100 step test. to confirm our pipeline works.,SubmissionStatus.COMPLETE,0.544,0.540
+53194955,submission.zip,2026-05-30 19:49:43.890000,,SubmissionStatus.COMPLETE,0.288,0.296
+53119380,submission.zip,2026-05-28 14:46:58.463000,,SubmissionStatus.COMPLETE,0.352,0.368
+53016430,submission.zip,2026-05-25 10:26:24.893000,v6_7,SubmissionStatus.COMPLETE,0.768,0.768
+52985824,submission.zip,2026-05-24 12:21:17.607000,"Bit, eq_num, cryptarithm. v6_6",SubmissionStatus.COMPLETE,0.708,0.748
+52810684,submission.zip,2026-05-19 12:33:19.690000,But manipulation new CoTs,SubmissionStatus.COMPLETE,0.812,0.828
+52748440,submission.zip,2026-05-17 16:30:42.867000,Trained on v6_clean which has our structured cryptarithm CoT,SubmissionStatus.COMPLETE,0.804,0.824
+52711325,submission.zip,2026-05-16 13:55:01.463000,,SubmissionStatus.COMPLETE,0.836,0.836
+52626141,submission.zip,2026-05-13 19:12:49.657000,,SubmissionStatus.COMPLETE,0.728,0.736
+52587533,submission.zip,2026-05-12 17:09:23.990000,Notebook nemotron_submissions | v1 replicating tong,SubmissionStatus.COMPLETE,0.584,0.588
+52586578,submission.zip,2026-05-12 16:27:31.060000,"The goal is to establish baseline with same data as Tong. 
+There are few unaddressed things like training directly on token",SubmissionStatus.COMPLETE,0.540,0.592
