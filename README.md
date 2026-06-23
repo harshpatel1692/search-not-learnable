@@ -1,5 +1,9 @@
 # A Verifiable Search Is Not a Learnable Chain-of-Thought
 
+[![arXiv](https://img.shields.io/badge/arXiv-2606.21884-b31b1b.svg)](https://arxiv.org/abs/2606.21884)
+[![Site](https://img.shields.io/badge/site-nemotron.harshpatel.live-1f6feb.svg)](https://nemotron.harshpatel.live)
+[![License: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
+
 > You can write a program that solves a task perfectly and still be unable to distil its **search**
 > into a chain-of-thought: the model collapses to verdict-as-token across every architecture and
 > scale tried here. The task is not unlearnable, though — it becomes learnable only by **removing
@@ -15,7 +19,7 @@ model's chain-of-thought?* It does not — and the competition's
 (private LB 0.92) is the existence proof for the escape: it cracked cryptarithm and
 bit-manipulation by *memorizing* the search's finite structure, not by teaching the model to search.
 
-**📄 Paper:** [`paper/main.pdf`](paper/main.pdf) · **🔎 Interactive walkthrough:** [nemotron.harshpatel.live](https://nemotron.harshpatel.live) · **🧩 Benchmark:** [Kaggle competition](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge)
+**📄 Paper:** [arXiv:2606.21884](https://arxiv.org/abs/2606.21884) · [local PDF](paper/main.pdf) · **🔎 Interactive walkthrough:** [nemotron.harshpatel.live](https://nemotron.harshpatel.live) · **🧩 Benchmark:** [Kaggle competition](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge)
 
 ---
 
@@ -87,10 +91,14 @@ python3 -m http.server -d docs 8000   # then open http://localhost:8000
 
 ```bibtex
 @misc{patel2026verifiable,
-  title  = {A Verifiable Search Is Not a Learnable Chain-of-Thought},
-  author = {Patel, Harsh},
-  year   = {2026},
-  note   = {NVIDIA Nemotron Model Reasoning Challenge}
+  title         = {A Verifiable Search Is Not a Learnable Chain-of-Thought},
+  author        = {Patel, Harsh},
+  year          = {2026},
+  eprint        = {2606.21884},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  doi           = {10.48550/arXiv.2606.21884},
+  note          = {NVIDIA Nemotron Model Reasoning Challenge}
 }
 ```
 
